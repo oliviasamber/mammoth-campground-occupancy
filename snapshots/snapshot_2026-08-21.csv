@@ -135,8 +135,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,234329,Twin Lakes,63019,Reserved,1,1
 2026-08-21,2026-08-21,234329,Twin Lakes,63019,Reserved,1,1
 2026-08-21,2026-08-22,234329,Twin Lakes,63019,Reserved,1,1
-2026-08-21,2026-08-23,234329,Twin Lakes,63019,Available,0,1
-2026-08-21,2026-08-24,234329,Twin Lakes,63019,Available,0,1
+2026-08-21,2026-08-23,234329,Twin Lakes,63019,Reserved,1,1
+2026-08-21,2026-08-24,234329,Twin Lakes,63019,Reserved,1,1
 2026-08-21,2026-08-25,234329,Twin Lakes,63019,Reserved,1,1
 2026-08-21,2026-08-26,234329,Twin Lakes,63019,Reserved,1,1
 2026-08-21,2026-08-27,234329,Twin Lakes,63019,Available,0,1
@@ -1441,7 +1441,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234329,Twin Lakes,63309,Available,0,1
 2026-08-21,2026-08-07,234329,Twin Lakes,63321,Reserved,1,1
 2026-08-21,2026-08-08,234329,Twin Lakes,63321,Reserved,1,1
-2026-08-21,2026-08-10,234329,Twin Lakes,63321,Not Reservable,0,0
 2026-08-21,2026-08-11,234329,Twin Lakes,63321,Reserved,1,1
 2026-08-21,2026-08-12,234329,Twin Lakes,63321,Reserved,1,1
 2026-08-21,2026-08-13,234329,Twin Lakes,63321,Reserved,1,1
@@ -1640,8 +1639,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-27,234329,Twin Lakes,63347,Reserved,1,1
 2026-08-21,2026-08-28,234329,Twin Lakes,63347,Reserved,1,1
 2026-08-21,2026-08-29,234329,Twin Lakes,63347,Reserved,1,1
-2026-08-21,2026-08-30,234329,Twin Lakes,63347,Reserved,1,1
-2026-08-21,2026-08-31,234329,Twin Lakes,63347,Reserved,1,1
+2026-08-21,2026-08-30,234329,Twin Lakes,63347,Available,0,1
+2026-08-21,2026-08-31,234329,Twin Lakes,63347,Available,0,1
 2026-08-21,2026-09-01,234329,Twin Lakes,63347,Reserved,1,1
 2026-08-21,2026-09-02,234329,Twin Lakes,63347,Reserved,1,1
 2026-08-21,2026-09-03,234329,Twin Lakes,63347,Reserved,1,1
@@ -3238,7 +3237,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234329,Twin Lakes,63670,Available,0,1
 2026-08-21,2026-08-07,234329,Twin Lakes,63681,Reserved,1,1
 2026-08-21,2026-08-08,234329,Twin Lakes,63681,Reserved,1,1
-2026-08-21,2026-08-10,234329,Twin Lakes,63681,Not Reservable,0,0
 2026-08-21,2026-08-11,234329,Twin Lakes,63681,Reserved,1,1
 2026-08-21,2026-08-12,234329,Twin Lakes,63681,Reserved,1,1
 2026-08-21,2026-08-13,234329,Twin Lakes,63681,Not Reservable,0,0
@@ -4330,12 +4328,12 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-19,234329,Twin Lakes,63932,Reserved,1,1
 2026-08-21,2026-08-20,234329,Twin Lakes,63932,Reserved,1,1
 2026-08-21,2026-08-21,234329,Twin Lakes,63932,Not Reservable,0,0
-2026-08-21,2026-08-22,234329,Twin Lakes,63932,Reserved,1,1
-2026-08-21,2026-08-23,234329,Twin Lakes,63932,Reserved,1,1
-2026-08-21,2026-08-24,234329,Twin Lakes,63932,Reserved,1,1
-2026-08-21,2026-08-25,234329,Twin Lakes,63932,Reserved,1,1
-2026-08-21,2026-08-26,234329,Twin Lakes,63932,Reserved,1,1
-2026-08-21,2026-08-27,234329,Twin Lakes,63932,Reserved,1,1
+2026-08-21,2026-08-22,234329,Twin Lakes,63932,Not Reservable,0,0
+2026-08-21,2026-08-23,234329,Twin Lakes,63932,Available,0,1
+2026-08-21,2026-08-24,234329,Twin Lakes,63932,Available,0,1
+2026-08-21,2026-08-25,234329,Twin Lakes,63932,Available,0,1
+2026-08-21,2026-08-26,234329,Twin Lakes,63932,Available,0,1
+2026-08-21,2026-08-27,234329,Twin Lakes,63932,Available,0,1
 2026-08-21,2026-08-28,234329,Twin Lakes,63932,Reserved,1,1
 2026-08-21,2026-08-29,234329,Twin Lakes,63932,Reserved,1,1
 2026-08-21,2026-08-30,234329,Twin Lakes,63932,Reserved,1,1
@@ -4578,7 +4576,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-27,234329,Twin Lakes,63947,Reserved,1,1
 2026-08-21,2026-08-28,234329,Twin Lakes,63947,Reserved,1,1
 2026-08-21,2026-08-29,234329,Twin Lakes,63947,Reserved,1,1
-2026-08-21,2026-08-30,234329,Twin Lakes,63947,Reserved,1,1
+2026-08-21,2026-08-30,234329,Twin Lakes,63947,Available,0,1
 2026-08-21,2026-08-31,234329,Twin Lakes,63947,Available,0,1
 2026-08-21,2026-09-01,234329,Twin Lakes,63947,Reserved,1,1
 2026-08-21,2026-09-02,234329,Twin Lakes,63947,Reserved,1,1
@@ -4818,7 +4816,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-27,234329,Twin Lakes,64051,Reserved,1,1
 2026-08-21,2026-08-28,234329,Twin Lakes,64051,Reserved,1,1
 2026-08-21,2026-08-29,234329,Twin Lakes,64051,Reserved,1,1
-2026-08-21,2026-08-30,234329,Twin Lakes,64051,Reserved,1,1
+2026-08-21,2026-08-30,234329,Twin Lakes,64051,Available,0,1
 2026-08-21,2026-08-31,234329,Twin Lakes,64051,Reserved,1,1
 2026-08-21,2026-09-01,234329,Twin Lakes,64051,Reserved,1,1
 2026-08-21,2026-09-02,234329,Twin Lakes,64051,Reserved,1,1
@@ -5576,7 +5574,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233860,New Shady Rest,83843,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,83843,Reserved,1,1
 2026-08-21,2026-08-09,233860,New Shady Rest,83843,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,83843,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,83843,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,83843,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,83843,Reserved,1,1
@@ -5612,7 +5609,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,83843,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89018,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89018,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89018,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89018,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89018,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89018,Reserved,1,1
@@ -5648,7 +5644,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89018,Available,0,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89048,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89048,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89048,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89048,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89048,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89048,Not Reservable,0,0
@@ -5795,7 +5790,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89070,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89073,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89073,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89073,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89073,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89073,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89073,Not Reservable,0,0
@@ -6015,7 +6009,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89155,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89156,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89156,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89156,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89156,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89156,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89156,Reserved,1,1
@@ -6051,7 +6044,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89156,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89158,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89158,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89158,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89158,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89158,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89158,Reserved,1,1
@@ -6236,7 +6228,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233860,New Shady Rest,89213,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89213,Reserved,1,1
 2026-08-21,2026-08-09,233860,New Shady Rest,89213,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89213,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89213,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89213,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89213,Not Reservable,0,0
@@ -6309,7 +6300,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89220,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89227,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89227,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89227,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89227,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89227,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89227,Not Reservable,0,0
@@ -6455,7 +6445,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89261,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89284,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89284,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89284,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89284,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89284,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89284,Not Reservable,0,0
@@ -6491,7 +6480,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89284,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89299,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89299,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89299,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89299,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89299,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89299,Reserved,1,1
@@ -6528,7 +6516,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233860,New Shady Rest,89302,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89302,Reserved,1,1
 2026-08-21,2026-08-09,233860,New Shady Rest,89302,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89302,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89302,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89302,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89302,Reserved,1,1
@@ -6601,7 +6588,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89310,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89352,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89352,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89352,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89352,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89352,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89352,Not Reservable,0,0
@@ -7078,7 +7064,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89444,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89462,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89462,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89462,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89462,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89462,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89462,Not Reservable,0,0
@@ -7114,7 +7099,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89462,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89473,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89473,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89473,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89473,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89473,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89473,Not Reservable,0,0
@@ -7150,7 +7134,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89473,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89485,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89485,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89485,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89485,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89485,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89485,Not Reservable,0,0
@@ -7223,7 +7206,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89491,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89508,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89508,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89508,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89508,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89508,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89508,Reserved,1,1
@@ -7259,7 +7241,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89508,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89523,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89523,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89523,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89523,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89523,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89523,Reserved,1,1
@@ -7368,7 +7349,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89538,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89542,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89542,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89542,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89542,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89542,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89542,Reserved,1,1
@@ -7404,7 +7384,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89542,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89552,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89552,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89552,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89552,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89552,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89552,Not Reservable,0,0
@@ -7586,7 +7565,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89570,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89579,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89579,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89579,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89579,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89579,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89579,Reserved,1,1
@@ -7622,7 +7600,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89579,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89592,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89592,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89592,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89592,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89592,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89592,Not Reservable,0,0
@@ -7768,7 +7745,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89629,Available,0,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89632,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89632,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89632,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89632,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89632,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89632,Not Reservable,0,0
@@ -7804,7 +7780,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89632,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89650,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89650,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89650,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89650,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89650,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89650,Reserved,1,1
@@ -7871,7 +7846,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-07,233860,New Shady Rest,89651,Available,0,1
 2026-08-21,2026-09-08,233860,New Shady Rest,89651,Available,0,1
 2026-08-21,2026-09-09,233860,New Shady Rest,89651,Available,0,1
-2026-08-21,2026-09-10,233860,New Shady Rest,89651,Available,0,1
+2026-08-21,2026-09-10,233860,New Shady Rest,89651,Reserved,1,1
 2026-08-21,2026-09-11,233860,New Shady Rest,89651,Reserved,1,1
 2026-08-21,2026-09-12,233860,New Shady Rest,89651,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89686,Reserved,1,1
@@ -7927,10 +7902,10 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-21,233860,New Shady Rest,89688,Reserved,1,1
 2026-08-21,2026-08-22,233860,New Shady Rest,89688,Reserved,1,1
 2026-08-21,2026-08-23,233860,New Shady Rest,89688,Available,0,1
-2026-08-21,2026-08-24,233860,New Shady Rest,89688,Available,0,1
-2026-08-21,2026-08-25,233860,New Shady Rest,89688,Available,0,1
-2026-08-21,2026-08-26,233860,New Shady Rest,89688,Available,0,1
-2026-08-21,2026-08-27,233860,New Shady Rest,89688,Available,0,1
+2026-08-21,2026-08-24,233860,New Shady Rest,89688,Reserved,1,1
+2026-08-21,2026-08-25,233860,New Shady Rest,89688,Reserved,1,1
+2026-08-21,2026-08-26,233860,New Shady Rest,89688,Reserved,1,1
+2026-08-21,2026-08-27,233860,New Shady Rest,89688,Reserved,1,1
 2026-08-21,2026-08-28,233860,New Shady Rest,89688,Reserved,1,1
 2026-08-21,2026-08-29,233860,New Shady Rest,89688,Reserved,1,1
 2026-08-21,2026-08-30,233860,New Shady Rest,89688,Available,0,1
@@ -7950,7 +7925,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233860,New Shady Rest,89693,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89693,Reserved,1,1
 2026-08-21,2026-08-09,233860,New Shady Rest,89693,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89693,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89693,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89693,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89693,Reserved,1,1
@@ -8023,7 +7997,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89702,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89712,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89712,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89712,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89712,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89712,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89712,Reserved,1,1
@@ -8082,9 +8055,9 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-29,233860,New Shady Rest,89720,Reserved,1,1
 2026-08-21,2026-08-30,233860,New Shady Rest,89720,Available,0,1
 2026-08-21,2026-08-31,233860,New Shady Rest,89720,Available,0,1
-2026-08-21,2026-09-01,233860,New Shady Rest,89720,Reserved,1,1
-2026-08-21,2026-09-02,233860,New Shady Rest,89720,Reserved,1,1
-2026-08-21,2026-09-03,233860,New Shady Rest,89720,Reserved,1,1
+2026-08-21,2026-09-01,233860,New Shady Rest,89720,Available,0,1
+2026-08-21,2026-09-02,233860,New Shady Rest,89720,Available,0,1
+2026-08-21,2026-09-03,233860,New Shady Rest,89720,Available,0,1
 2026-08-21,2026-09-04,233860,New Shady Rest,89720,Reserved,1,1
 2026-08-21,2026-09-05,233860,New Shady Rest,89720,Reserved,1,1
 2026-08-21,2026-09-06,233860,New Shady Rest,89720,Reserved,1,1
@@ -8133,7 +8106,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89748,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89753,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89753,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89753,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89753,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89753,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89753,Reserved,1,1
@@ -8169,7 +8141,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89753,Available,0,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89761,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89761,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89761,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89761,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89761,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89761,Reserved,1,1
@@ -8241,7 +8212,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89793,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89808,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89808,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89808,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89808,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89808,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89808,Reserved,1,1
@@ -8608,7 +8578,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89877,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89891,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89891,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89891,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89891,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89891,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89891,Reserved,1,1
@@ -8645,7 +8614,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233860,New Shady Rest,89896,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89896,Reserved,1,1
 2026-08-21,2026-08-09,233860,New Shady Rest,89896,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89896,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89896,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89896,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89896,Reserved,1,1
@@ -8681,7 +8649,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89896,Available,0,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89925,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89925,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89925,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89925,Not Reservable,0,0
 2026-08-21,2026-08-12,233860,New Shady Rest,89925,Not Reservable,0,0
 2026-08-21,2026-08-13,233860,New Shady Rest,89925,Reserved,1,1
@@ -8828,7 +8795,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,233860,New Shady Rest,89946,Reserved,1,1
 2026-08-21,2026-08-07,233860,New Shady Rest,89965,Reserved,1,1
 2026-08-21,2026-08-08,233860,New Shady Rest,89965,Reserved,1,1
-2026-08-21,2026-08-10,233860,New Shady Rest,89965,Not Reservable,0,0
 2026-08-21,2026-08-11,233860,New Shady Rest,89965,Reserved,1,1
 2026-08-21,2026-08-12,233860,New Shady Rest,89965,Reserved,1,1
 2026-08-21,2026-08-13,233860,New Shady Rest,89965,Reserved,1,1
@@ -8901,7 +8867,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83056,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83060,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83060,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83060,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83060,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83060,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83060,Reserved,1,1
@@ -8938,7 +8903,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,83168,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83168,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,83168,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83168,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83168,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83168,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83168,Reserved,1,1
@@ -8975,7 +8939,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,83176,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83176,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,83176,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83176,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83176,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83176,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,83176,Reserved,1,1
@@ -9012,7 +8975,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,83239,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83239,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,83239,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83239,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83239,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83239,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83239,Reserved,1,1
@@ -9048,7 +9010,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83239,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83249,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83249,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83249,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83249,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83249,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,83249,Not Reservable,0,0
@@ -9121,7 +9082,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83257,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83339,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83339,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83339,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83339,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83339,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,83339,Not Reservable,0,0
@@ -9157,7 +9117,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83339,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83346,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83346,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83346,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83346,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83346,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83346,Reserved,1,1
@@ -9193,7 +9152,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83346,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83396,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83396,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83396,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83396,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,83396,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83396,Reserved,1,1
@@ -9414,7 +9372,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83597,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83598,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83598,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83598,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83598,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83598,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,83598,Reserved,1,1
@@ -9597,7 +9554,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,83822,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,83920,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,83920,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,83920,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,83920,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,83920,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,83920,Not Reservable,0,0
@@ -9634,7 +9590,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84022,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84022,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84022,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84022,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84022,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84022,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84022,Reserved,1,1
@@ -9670,7 +9625,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84022,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84045,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84045,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84045,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84045,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84045,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84045,Reserved,1,1
@@ -9817,7 +9771,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84112,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84157,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84157,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84157,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84157,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84157,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84157,Reserved,1,1
@@ -9854,7 +9807,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84170,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84170,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84170,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84170,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84170,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84170,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84170,Not Reservable,0,0
@@ -10038,7 +9990,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84255,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84255,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84255,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84255,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84255,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84255,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84255,Not Reservable,0,0
@@ -10074,7 +10025,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84255,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84257,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84257,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84257,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84257,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84257,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84257,Not Reservable,0,0
@@ -10110,7 +10060,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84257,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84267,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84267,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84267,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84267,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,84267,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84267,Not Reservable,0,0
@@ -10146,7 +10095,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84267,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84274,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84274,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84274,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84274,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84274,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84274,Reserved,1,1
@@ -10182,7 +10130,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84274,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84291,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84291,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84291,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84291,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84291,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84291,Reserved,1,1
@@ -10213,13 +10160,12 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-07,232271,Sherwin Creek,84291,Available,0,1
 2026-08-21,2026-09-08,232271,Sherwin Creek,84291,Available,0,1
 2026-08-21,2026-09-09,232271,Sherwin Creek,84291,Available,0,1
-2026-08-21,2026-09-10,232271,Sherwin Creek,84291,Reserved,1,1
-2026-08-21,2026-09-11,232271,Sherwin Creek,84291,Reserved,1,1
-2026-08-21,2026-09-12,232271,Sherwin Creek,84291,Reserved,1,1
+2026-08-21,2026-09-10,232271,Sherwin Creek,84291,Available,0,1
+2026-08-21,2026-09-11,232271,Sherwin Creek,84291,Available,0,1
+2026-08-21,2026-09-12,232271,Sherwin Creek,84291,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84333,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84333,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84333,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84333,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84333,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84333,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84333,Reserved,1,1
@@ -10365,7 +10311,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84383,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84388,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84388,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84388,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84388,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84388,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84388,Not Reservable,0,0
@@ -10401,7 +10346,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84388,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84421,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84421,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84421,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84421,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84421,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84421,Reserved,1,1
@@ -10437,7 +10381,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84421,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84449,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84449,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84449,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84449,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84449,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84449,Reserved,1,1
@@ -10510,7 +10453,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84473,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84473,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84473,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84473,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84473,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84473,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84473,Reserved,1,1
@@ -10621,7 +10563,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84488,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84488,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84488,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84488,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84488,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,84488,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84488,Reserved,1,1
@@ -10638,9 +10579,9 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-24,232271,Sherwin Creek,84488,Available,0,1
 2026-08-21,2026-08-25,232271,Sherwin Creek,84488,Available,0,1
 2026-08-21,2026-08-26,232271,Sherwin Creek,84488,Available,0,1
-2026-08-21,2026-08-27,232271,Sherwin Creek,84488,Reserved,1,1
-2026-08-21,2026-08-28,232271,Sherwin Creek,84488,Reserved,1,1
-2026-08-21,2026-08-29,232271,Sherwin Creek,84488,Reserved,1,1
+2026-08-21,2026-08-27,232271,Sherwin Creek,84488,Available,0,1
+2026-08-21,2026-08-28,232271,Sherwin Creek,84488,Available,0,1
+2026-08-21,2026-08-29,232271,Sherwin Creek,84488,Available,0,1
 2026-08-21,2026-08-30,232271,Sherwin Creek,84488,Available,0,1
 2026-08-21,2026-08-31,232271,Sherwin Creek,84488,Available,0,1
 2026-08-21,2026-09-01,232271,Sherwin Creek,84488,Available,0,1
@@ -10657,7 +10598,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84488,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84532,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84532,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84532,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84532,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84532,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84532,Reserved,1,1
@@ -10694,7 +10634,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84543,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84543,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84543,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84543,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84543,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84543,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84543,Not Reservable,0,0
@@ -10767,7 +10706,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84548,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84557,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84557,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84557,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84557,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84557,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84557,Reserved,1,1
@@ -10803,7 +10741,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84557,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84571,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84571,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84571,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84571,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84571,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84571,Not Reservable,0,0
@@ -10840,7 +10777,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84578,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84578,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84578,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84578,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84578,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84578,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84578,Not Reservable,0,0
@@ -10876,7 +10812,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84578,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84590,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84590,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84590,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84590,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84590,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84590,Not Reservable,0,0
@@ -10912,7 +10847,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84590,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84645,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84645,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84645,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84645,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84645,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84645,Reserved,1,1
@@ -11095,7 +11029,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84713,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84715,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84715,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84715,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84715,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84715,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84715,Reserved,1,1
@@ -11168,7 +11101,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84724,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84745,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84745,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84745,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84745,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84745,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84745,Not Reservable,0,0
@@ -11352,7 +11284,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84791,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84791,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84791,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84791,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84791,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84791,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84791,Reserved,1,1
@@ -11426,7 +11357,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84795,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84795,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84795,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84795,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84795,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,84795,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84795,Reserved,1,1
@@ -11463,7 +11393,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84797,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84797,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84797,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84797,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84797,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84797,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84797,Not Reservable,0,0
@@ -11537,7 +11466,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232271,Sherwin Creek,84800,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84800,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84800,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84800,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84800,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84800,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84800,Reserved,1,1
@@ -11573,7 +11501,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84800,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84838,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84838,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84838,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84838,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84838,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84838,Not Reservable,0,0
@@ -11609,7 +11536,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84838,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84849,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84849,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84849,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84849,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84849,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84849,Reserved,1,1
@@ -11682,7 +11608,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84856,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84861,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84861,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84861,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84861,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,84861,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84861,Reserved,1,1
@@ -11755,7 +11680,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84880,Available,0,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84901,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84901,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84901,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84901,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84901,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84901,Reserved,1,1
@@ -11791,7 +11715,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84901,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84910,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84910,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84910,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84910,Reserved,1,1
 2026-08-21,2026-08-12,232271,Sherwin Creek,84910,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84910,Reserved,1,1
@@ -11827,7 +11750,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84910,Reserved,1,1
 2026-08-21,2026-08-07,232271,Sherwin Creek,84916,Reserved,1,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84916,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84916,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84916,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84916,Reserved,1,1
 2026-08-21,2026-08-13,232271,Sherwin Creek,84916,Reserved,1,1
@@ -11863,7 +11785,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-12,232271,Sherwin Creek,84916,Available,0,1
 2026-08-21,2026-08-08,232271,Sherwin Creek,84928,Reserved,1,1
 2026-08-21,2026-08-09,232271,Sherwin Creek,84928,Reserved,1,1
-2026-08-21,2026-08-10,232271,Sherwin Creek,84928,Not Reservable,0,0
 2026-08-21,2026-08-11,232271,Sherwin Creek,84928,Not Reservable,0,0
 2026-08-21,2026-08-12,232271,Sherwin Creek,84928,Not Reservable,0,0
 2026-08-21,2026-08-13,232271,Sherwin Creek,84928,Reserved,1,1
@@ -12177,7 +12098,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,234290,Coldwater,84050,Reserved,1,1
 2026-08-21,2026-08-07,234290,Coldwater,84059,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84059,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84059,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84059,Reserved,1,1
 2026-08-21,2026-08-12,234290,Coldwater,84059,Reserved,1,1
 2026-08-21,2026-08-13,234290,Coldwater,84059,Reserved,1,1
@@ -12393,7 +12313,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,234290,Coldwater,84105,Reserved,1,1
 2026-08-21,2026-08-21,234290,Coldwater,84105,Reserved,1,1
 2026-08-21,2026-08-22,234290,Coldwater,84105,Reserved,1,1
-2026-08-21,2026-08-23,234290,Coldwater,84105,Available,0,1
+2026-08-21,2026-08-23,234290,Coldwater,84105,Reserved,1,1
 2026-08-21,2026-08-24,234290,Coldwater,84105,Reserved,1,1
 2026-08-21,2026-08-25,234290,Coldwater,84105,Reserved,1,1
 2026-08-21,2026-08-26,234290,Coldwater,84105,Reserved,1,1
@@ -12788,7 +12708,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234290,Coldwater,84230,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84230,Reserved,1,1
 2026-08-21,2026-08-09,234290,Coldwater,84230,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84230,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84230,Not Reservable,0,0
 2026-08-21,2026-08-12,234290,Coldwater,84230,Not Reservable,0,0
 2026-08-21,2026-08-13,234290,Coldwater,84230,Reserved,1,1
@@ -13856,7 +13775,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234290,Coldwater,84518,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84518,Reserved,1,1
 2026-08-21,2026-08-09,234290,Coldwater,84518,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84518,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84518,Not Reservable,0,0
 2026-08-21,2026-08-12,234290,Coldwater,84518,Not Reservable,0,0
 2026-08-21,2026-08-13,234290,Coldwater,84518,Not Reservable,0,0
@@ -14212,7 +14130,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234290,Coldwater,84625,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84625,Reserved,1,1
 2026-08-21,2026-08-09,234290,Coldwater,84625,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84625,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84625,Not Reservable,0,0
 2026-08-21,2026-08-12,234290,Coldwater,84625,Reserved,1,1
 2026-08-21,2026-08-13,234290,Coldwater,84625,Reserved,1,1
@@ -14566,7 +14483,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,234290,Coldwater,84726,Reserved,1,1
 2026-08-21,2026-08-07,234290,Coldwater,84736,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84736,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84736,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84736,Not Reservable,0,0
 2026-08-21,2026-08-12,234290,Coldwater,84736,Not Reservable,0,0
 2026-08-21,2026-08-13,234290,Coldwater,84736,Reserved,1,1
@@ -14972,7 +14888,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234290,Coldwater,84859,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84859,Reserved,1,1
 2026-08-21,2026-08-09,234290,Coldwater,84859,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84859,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84859,Reserved,1,1
 2026-08-21,2026-08-12,234290,Coldwater,84859,Reserved,1,1
 2026-08-21,2026-08-13,234290,Coldwater,84859,Reserved,1,1
@@ -15143,8 +15058,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-25,234290,Coldwater,84892,Reserved,1,1
 2026-08-21,2026-08-26,234290,Coldwater,84892,Reserved,1,1
 2026-08-21,2026-08-27,234290,Coldwater,84892,Reserved,1,1
-2026-08-21,2026-08-28,234290,Coldwater,84892,Reserved,1,1
-2026-08-21,2026-08-29,234290,Coldwater,84892,Reserved,1,1
+2026-08-21,2026-08-28,234290,Coldwater,84892,Available,0,1
+2026-08-21,2026-08-29,234290,Coldwater,84892,Available,0,1
 2026-08-21,2026-08-30,234290,Coldwater,84892,Available,0,1
 2026-08-21,2026-08-31,234290,Coldwater,84892,Available,0,1
 2026-08-21,2026-09-01,234290,Coldwater,84892,Available,0,1
@@ -15338,9 +15253,9 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-17,234290,Coldwater,84912,Reserved,1,1
 2026-08-21,2026-08-18,234290,Coldwater,84912,Reserved,1,1
 2026-08-21,2026-08-19,234290,Coldwater,84912,Reserved,1,1
-2026-08-21,2026-08-20,234290,Coldwater,84912,Reserved,1,1
-2026-08-21,2026-08-21,234290,Coldwater,84912,Reserved,1,1
-2026-08-21,2026-08-22,234290,Coldwater,84912,Reserved,1,1
+2026-08-21,2026-08-20,234290,Coldwater,84912,Not Reservable,0,0
+2026-08-21,2026-08-21,234290,Coldwater,84912,Not Reservable,0,0
+2026-08-21,2026-08-22,234290,Coldwater,84912,Not Reservable,0,0
 2026-08-21,2026-08-23,234290,Coldwater,84912,Available,0,1
 2026-08-21,2026-08-24,234290,Coldwater,84912,Reserved,1,1
 2026-08-21,2026-08-25,234290,Coldwater,84912,Available,0,1
@@ -15379,7 +15294,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234290,Coldwater,84925,Reserved,1,1
 2026-08-21,2026-08-08,234290,Coldwater,84925,Reserved,1,1
 2026-08-21,2026-08-09,234290,Coldwater,84925,Reserved,1,1
-2026-08-21,2026-08-10,234290,Coldwater,84925,Not Reservable,0,0
 2026-08-21,2026-08-11,234290,Coldwater,84925,Not Reservable,0,0
 2026-08-21,2026-08-12,234290,Coldwater,84925,Reserved,1,1
 2026-08-21,2026-08-13,234290,Coldwater,84925,Reserved,1,1
@@ -15800,11 +15714,11 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,233404,Lake Mary,76040,Reserved,1,1
 2026-08-21,2026-08-21,233404,Lake Mary,76040,Reserved,1,1
 2026-08-21,2026-08-22,233404,Lake Mary,76040,Reserved,1,1
-2026-08-21,2026-08-23,233404,Lake Mary,76040,Reserved,1,1
-2026-08-21,2026-08-24,233404,Lake Mary,76040,Reserved,1,1
-2026-08-21,2026-08-25,233404,Lake Mary,76040,Reserved,1,1
-2026-08-21,2026-08-26,233404,Lake Mary,76040,Reserved,1,1
-2026-08-21,2026-08-27,233404,Lake Mary,76040,Reserved,1,1
+2026-08-21,2026-08-23,233404,Lake Mary,76040,Available,0,1
+2026-08-21,2026-08-24,233404,Lake Mary,76040,Available,0,1
+2026-08-21,2026-08-25,233404,Lake Mary,76040,Available,0,1
+2026-08-21,2026-08-26,233404,Lake Mary,76040,Available,0,1
+2026-08-21,2026-08-27,233404,Lake Mary,76040,Available,0,1
 2026-08-21,2026-08-28,233404,Lake Mary,76040,Reserved,1,1
 2026-08-21,2026-08-29,233404,Lake Mary,76040,Reserved,1,1
 2026-08-21,2026-08-30,233404,Lake Mary,76040,Reserved,1,1
@@ -17175,11 +17089,11 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,233404,Lake Mary,76595,Reserved,1,1
 2026-08-21,2026-08-21,233404,Lake Mary,76595,Reserved,1,1
 2026-08-21,2026-08-22,233404,Lake Mary,76595,Reserved,1,1
-2026-08-21,2026-08-23,233404,Lake Mary,76595,Reserved,1,1
-2026-08-21,2026-08-24,233404,Lake Mary,76595,Reserved,1,1
-2026-08-21,2026-08-25,233404,Lake Mary,76595,Reserved,1,1
-2026-08-21,2026-08-26,233404,Lake Mary,76595,Reserved,1,1
-2026-08-21,2026-08-27,233404,Lake Mary,76595,Reserved,1,1
+2026-08-21,2026-08-23,233404,Lake Mary,76595,Available,0,1
+2026-08-21,2026-08-24,233404,Lake Mary,76595,Available,0,1
+2026-08-21,2026-08-25,233404,Lake Mary,76595,Available,0,1
+2026-08-21,2026-08-26,233404,Lake Mary,76595,Available,0,1
+2026-08-21,2026-08-27,233404,Lake Mary,76595,Available,0,1
 2026-08-21,2026-08-28,233404,Lake Mary,76595,Reserved,1,1
 2026-08-21,2026-08-29,233404,Lake Mary,76595,Reserved,1,1
 2026-08-21,2026-08-30,233404,Lake Mary,76595,Reserved,1,1
@@ -17364,7 +17278,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233404,Lake Mary,76650,Reserved,1,1
 2026-08-21,2026-08-07,233404,Lake Mary,76667,Reserved,1,1
 2026-08-21,2026-08-08,233404,Lake Mary,76667,Reserved,1,1
-2026-08-21,2026-08-10,233404,Lake Mary,76667,Not Reservable,0,0
 2026-08-21,2026-08-11,233404,Lake Mary,76667,Reserved,1,1
 2026-08-21,2026-08-12,233404,Lake Mary,76667,Reserved,1,1
 2026-08-21,2026-08-13,233404,Lake Mary,76667,Reserved,1,1
@@ -17820,7 +17733,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233404,Lake Mary,76852,Reserved,1,1
 2026-08-21,2026-08-07,233404,Lake Mary,76906,Reserved,1,1
 2026-08-21,2026-08-08,233404,Lake Mary,76906,Reserved,1,1
-2026-08-21,2026-08-10,233404,Lake Mary,76906,Not Reservable,0,0
 2026-08-21,2026-08-11,233404,Lake Mary,76906,Reserved,1,1
 2026-08-21,2026-08-12,233404,Lake Mary,76906,Not Reservable,0,0
 2026-08-21,2026-08-13,233404,Lake Mary,76906,Not Reservable,0,0
@@ -17973,7 +17885,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233404,Lake Mary,76959,Reserved,1,1
 2026-08-21,2026-08-08,233404,Lake Mary,76959,Reserved,1,1
 2026-08-21,2026-08-09,233404,Lake Mary,76959,Reserved,1,1
-2026-08-21,2026-08-10,233404,Lake Mary,76959,Not Reservable,0,0
 2026-08-21,2026-08-11,233404,Lake Mary,76959,Reserved,1,1
 2026-08-21,2026-08-12,233404,Lake Mary,76959,Reserved,1,1
 2026-08-21,2026-08-13,233404,Lake Mary,76959,Not Reservable,0,0
@@ -18099,7 +18010,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-31,233404,Lake Mary,76995,Reserved,1,1
 2026-08-21,2026-09-01,233404,Lake Mary,76995,Reserved,1,1
 2026-08-21,2026-09-02,233404,Lake Mary,76995,Available,0,1
-2026-08-21,2026-09-03,233404,Lake Mary,76995,Available,0,1
+2026-08-21,2026-09-03,233404,Lake Mary,76995,Reserved,1,1
 2026-08-21,2026-09-04,233404,Lake Mary,76995,Reserved,1,1
 2026-08-21,2026-09-05,233404,Lake Mary,76995,Reserved,1,1
 2026-08-21,2026-09-06,233404,Lake Mary,76995,Reserved,1,1
@@ -18295,7 +18206,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84037,Available,0,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84038,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84038,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84038,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84038,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84038,Not Reservable,0,0
 2026-08-21,2026-08-13,233830,Old Shady Rest,84038,Not Reservable,0,0
@@ -18414,7 +18324,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84048,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84048,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84048,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84048,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84048,Reserved,1,1
 2026-08-21,2026-08-12,233830,Old Shady Rest,84048,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84048,Reserved,1,1
@@ -18473,7 +18382,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84048,Reserved,1,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84065,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84065,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84065,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84065,Reserved,1,1
 2026-08-21,2026-08-12,233830,Old Shady Rest,84065,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84065,Reserved,1,1
@@ -18592,7 +18500,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84071,Available,0,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84100,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84100,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84100,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84100,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84100,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84100,Reserved,1,1
@@ -18892,7 +18799,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84270,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84270,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84270,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84270,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84270,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84270,Not Reservable,0,0
 2026-08-21,2026-08-13,233830,Old Shady Rest,84270,Reserved,1,1
@@ -18951,7 +18857,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84270,Available,0,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84284,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84284,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84284,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84284,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84284,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84284,Reserved,1,1
@@ -19011,7 +18916,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84289,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84289,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84289,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84289,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84289,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84289,Not Reservable,0,0
 2026-08-21,2026-08-13,233830,Old Shady Rest,84289,Not Reservable,0,0
@@ -19190,7 +19094,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84318,Available,0,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84341,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84341,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84341,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84341,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84341,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84341,Reserved,1,1
@@ -19310,7 +19213,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84453,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84453,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84453,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84453,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84453,Reserved,1,1
 2026-08-21,2026-08-12,233830,Old Shady Rest,84453,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84453,Reserved,1,1
@@ -19970,7 +19872,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84598,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84598,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84598,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84598,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84598,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84598,Not Reservable,0,0
 2026-08-21,2026-08-13,233830,Old Shady Rest,84598,Reserved,1,1
@@ -20090,7 +19991,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84626,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84626,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84626,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84626,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84626,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84626,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84626,Reserved,1,1
@@ -20149,7 +20049,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84626,Reserved,1,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84677,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84677,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84677,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84677,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84677,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84677,Reserved,1,1
@@ -20208,7 +20107,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84677,Reserved,1,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84678,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84678,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84678,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84678,Reserved,1,1
 2026-08-21,2026-08-12,233830,Old Shady Rest,84678,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84678,Reserved,1,1
@@ -20447,7 +20345,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233830,Old Shady Rest,84817,Reserved,1,1
 2026-08-21,2026-08-07,233830,Old Shady Rest,84850,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84850,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84850,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84850,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84850,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84850,Reserved,1,1
@@ -20585,8 +20482,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-25,233830,Old Shady Rest,84904,Available,0,1
 2026-08-21,2026-08-26,233830,Old Shady Rest,84904,Available,0,1
 2026-08-21,2026-08-27,233830,Old Shady Rest,84904,Available,0,1
-2026-08-21,2026-08-28,233830,Old Shady Rest,84904,Reserved,1,1
-2026-08-21,2026-08-29,233830,Old Shady Rest,84904,Reserved,1,1
+2026-08-21,2026-08-28,233830,Old Shady Rest,84904,Available,0,1
+2026-08-21,2026-08-29,233830,Old Shady Rest,84904,Available,0,1
 2026-08-21,2026-08-30,233830,Old Shady Rest,84904,Reserved,1,1
 2026-08-21,2026-08-31,233830,Old Shady Rest,84904,Available,0,1
 2026-08-21,2026-09-01,233830,Old Shady Rest,84904,Available,0,1
@@ -20686,7 +20583,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84952,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84952,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84952,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84952,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84952,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84952,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84952,Reserved,1,1
@@ -20746,7 +20642,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233830,Old Shady Rest,84954,Reserved,1,1
 2026-08-21,2026-08-08,233830,Old Shady Rest,84954,Reserved,1,1
 2026-08-21,2026-08-09,233830,Old Shady Rest,84954,Reserved,1,1
-2026-08-21,2026-08-10,233830,Old Shady Rest,84954,Not Reservable,0,0
 2026-08-21,2026-08-11,233830,Old Shady Rest,84954,Not Reservable,0,0
 2026-08-21,2026-08-12,233830,Old Shady Rest,84954,Reserved,1,1
 2026-08-21,2026-08-13,233830,Old Shady Rest,84954,Reserved,1,1
@@ -20866,7 +20761,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232270,Pine Glen,86019,Reserved,1,1
 2026-08-21,2026-08-08,232270,Pine Glen,86019,Reserved,1,1
 2026-08-21,2026-08-09,232270,Pine Glen,86019,Reserved,1,1
-2026-08-21,2026-08-10,232270,Pine Glen,86019,Not Reservable,0,0
 2026-08-21,2026-08-11,232270,Pine Glen,86019,Not Reservable,0,0
 2026-08-21,2026-08-12,232270,Pine Glen,86019,Not Reservable,0,0
 2026-08-21,2026-08-13,232270,Pine Glen,86019,Not Reservable,0,0
@@ -21070,7 +20964,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232270,Pine Glen,86242,Reserved,1,1
 2026-08-21,2026-08-08,232270,Pine Glen,86242,Reserved,1,1
 2026-08-21,2026-08-09,232270,Pine Glen,86242,Reserved,1,1
-2026-08-21,2026-08-10,232270,Pine Glen,86242,Not Reservable,0,0
 2026-08-21,2026-08-11,232270,Pine Glen,86242,Not Reservable,0,0
 2026-08-21,2026-08-12,232270,Pine Glen,86242,Reserved,1,1
 2026-08-21,2026-08-13,232270,Pine Glen,86242,Reserved,1,1
@@ -21171,7 +21064,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,232270,Pine Glen,86256,Reserved,1,1
 2026-08-21,2026-08-07,232270,Pine Glen,86333,Reserved,1,1
 2026-08-21,2026-08-08,232270,Pine Glen,86333,Reserved,1,1
-2026-08-21,2026-08-10,232270,Pine Glen,86333,Not Reservable,0,0
 2026-08-21,2026-08-11,232270,Pine Glen,86333,Not Reservable,0,0
 2026-08-21,2026-08-12,232270,Pine Glen,86333,Not Reservable,0,0
 2026-08-21,2026-08-13,232270,Pine Glen,86333,Reserved,1,1
@@ -21579,7 +21471,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232270,Pine Glen,86934,Reserved,1,1
 2026-08-21,2026-08-08,232270,Pine Glen,86934,Reserved,1,1
 2026-08-21,2026-08-09,232270,Pine Glen,86934,Reserved,1,1
-2026-08-21,2026-08-10,232270,Pine Glen,86934,Not Reservable,0,0
 2026-08-21,2026-08-11,232270,Pine Glen,86934,Not Reservable,0,0
 2026-08-21,2026-08-12,232270,Pine Glen,86934,Not Reservable,0,0
 2026-08-21,2026-08-13,232270,Pine Glen,86934,Reserved,1,1
@@ -21680,7 +21571,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,232270,Pine Glen,86938,Reserved,1,1
 2026-08-21,2026-08-07,232270,Pine Glen,86949,Reserved,1,1
 2026-08-21,2026-08-08,232270,Pine Glen,86949,Reserved,1,1
-2026-08-21,2026-08-10,232270,Pine Glen,86949,Not Reservable,0,0
 2026-08-21,2026-08-11,232270,Pine Glen,86949,Not Reservable,0,0
 2026-08-21,2026-08-12,232270,Pine Glen,86949,Reserved,1,1
 2026-08-21,2026-08-13,232270,Pine Glen,86949,Reserved,1,1
@@ -22029,7 +21919,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86031,Reserved,1,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86068,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86068,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86068,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86068,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86068,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86068,Not Reservable,0,0
@@ -22099,7 +21988,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-17,232269,Oh! Ridge,86072,Reserved,1,1
 2026-08-21,2026-08-18,232269,Oh! Ridge,86072,Reserved,1,1
 2026-08-21,2026-08-19,232269,Oh! Ridge,86072,Reserved,1,1
-2026-08-21,2026-08-20,232269,Oh! Ridge,86072,Not Reservable,0,0
+2026-08-21,2026-08-20,232269,Oh! Ridge,86072,Reserved,1,1
 2026-08-21,2026-08-21,232269,Oh! Ridge,86072,Reserved,1,1
 2026-08-21,2026-08-22,232269,Oh! Ridge,86072,Reserved,1,1
 2026-08-21,2026-08-23,232269,Oh! Ridge,86072,Reserved,1,1
@@ -22922,8 +22811,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-29,232269,Oh! Ridge,86186,Available,0,1
 2026-08-21,2026-09-30,232269,Oh! Ridge,86186,Available,0,1
 2026-08-21,2026-10-01,232269,Oh! Ridge,86186,Available,0,1
-2026-08-21,2026-10-02,232269,Oh! Ridge,86186,Available,0,1
-2026-08-21,2026-10-03,232269,Oh! Ridge,86186,Available,0,1
+2026-08-21,2026-10-02,232269,Oh! Ridge,86186,Reserved,1,1
+2026-08-21,2026-10-03,232269,Oh! Ridge,86186,Reserved,1,1
 2026-08-21,2026-10-04,232269,Oh! Ridge,86186,Available,0,1
 2026-08-21,2026-10-05,232269,Oh! Ridge,86186,Available,0,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86187,Reserved,1,1
@@ -23826,7 +23715,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232269,Oh! Ridge,86275,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86275,Reserved,1,1
 2026-08-21,2026-08-09,232269,Oh! Ridge,86275,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86275,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86275,Reserved,1,1
 2026-08-21,2026-08-12,232269,Oh! Ridge,86275,Reserved,1,1
 2026-08-21,2026-08-13,232269,Oh! Ridge,86275,Reserved,1,1
@@ -23886,7 +23774,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232269,Oh! Ridge,86286,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86286,Reserved,1,1
 2026-08-21,2026-08-09,232269,Oh! Ridge,86286,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86286,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86286,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86286,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86286,Reserved,1,1
@@ -24126,7 +24013,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232269,Oh! Ridge,86315,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86315,Reserved,1,1
 2026-08-21,2026-08-09,232269,Oh! Ridge,86315,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86315,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86315,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86315,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86315,Not Reservable,0,0
@@ -25204,7 +25090,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86456,Available,0,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86462,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86462,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86462,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86462,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86462,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86462,Not Reservable,0,0
@@ -25753,7 +25638,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-17,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-18,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-19,232269,Oh! Ridge,86516,Not Reservable,0,0
-2026-08-21,2026-08-20,232269,Oh! Ridge,86516,Not Reservable,0,0
+2026-08-21,2026-08-20,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-21,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-22,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-23,232269,Oh! Ridge,86516,Reserved,1,1
@@ -25802,7 +25687,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86516,Reserved,1,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86519,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86519,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86519,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86519,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86519,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86519,Reserved,1,1
@@ -26041,7 +25925,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86539,Reserved,1,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86554,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86554,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86554,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86554,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86554,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86554,Not Reservable,0,0
@@ -26174,9 +26057,9 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,232269,Oh! Ridge,86563,Reserved,1,1
 2026-08-21,2026-08-21,232269,Oh! Ridge,86563,Reserved,1,1
 2026-08-21,2026-08-22,232269,Oh! Ridge,86563,Reserved,1,1
-2026-08-21,2026-08-23,232269,Oh! Ridge,86563,Reserved,1,1
-2026-08-21,2026-08-24,232269,Oh! Ridge,86563,Reserved,1,1
-2026-08-21,2026-08-25,232269,Oh! Ridge,86563,Reserved,1,1
+2026-08-21,2026-08-23,232269,Oh! Ridge,86563,Available,0,1
+2026-08-21,2026-08-24,232269,Oh! Ridge,86563,Available,0,1
+2026-08-21,2026-08-25,232269,Oh! Ridge,86563,Available,0,1
 2026-08-21,2026-08-26,232269,Oh! Ridge,86563,Available,0,1
 2026-08-21,2026-08-27,232269,Oh! Ridge,86563,Reserved,1,1
 2026-08-21,2026-08-28,232269,Oh! Ridge,86563,Reserved,1,1
@@ -26220,7 +26103,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86563,Reserved,1,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86584,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86584,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86584,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86584,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86584,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86584,Reserved,1,1
@@ -26638,7 +26520,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86627,Available,0,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86634,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86634,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86634,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86634,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86634,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86634,Not Reservable,0,0
@@ -26697,7 +26578,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86634,Available,0,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86637,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86637,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86637,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86637,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86637,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86637,Not Reservable,0,0
@@ -27416,7 +27296,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86699,Available,0,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86704,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86704,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86704,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86704,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86704,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86704,Not Reservable,0,0
@@ -27655,7 +27534,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232269,Oh! Ridge,86718,Reserved,1,1
 2026-08-21,2026-08-07,232269,Oh! Ridge,86723,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86723,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86723,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86723,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86723,Not Reservable,0,0
 2026-08-21,2026-08-13,232269,Oh! Ridge,86723,Not Reservable,0,0
@@ -28386,10 +28264,10 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-20,232269,Oh! Ridge,86824,Reserved,1,1
 2026-08-21,2026-08-21,232269,Oh! Ridge,86824,Reserved,1,1
 2026-08-21,2026-08-22,232269,Oh! Ridge,86824,Reserved,1,1
-2026-08-21,2026-08-23,232269,Oh! Ridge,86824,Reserved,1,1
-2026-08-21,2026-08-24,232269,Oh! Ridge,86824,Reserved,1,1
-2026-08-21,2026-08-25,232269,Oh! Ridge,86824,Reserved,1,1
-2026-08-21,2026-08-26,232269,Oh! Ridge,86824,Reserved,1,1
+2026-08-21,2026-08-23,232269,Oh! Ridge,86824,Available,0,1
+2026-08-21,2026-08-24,232269,Oh! Ridge,86824,Available,0,1
+2026-08-21,2026-08-25,232269,Oh! Ridge,86824,Available,0,1
+2026-08-21,2026-08-26,232269,Oh! Ridge,86824,Available,0,1
 2026-08-21,2026-08-27,232269,Oh! Ridge,86824,Reserved,1,1
 2026-08-21,2026-08-28,232269,Oh! Ridge,86824,Reserved,1,1
 2026-08-21,2026-08-29,232269,Oh! Ridge,86824,Reserved,1,1
@@ -28733,7 +28611,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232269,Oh! Ridge,86869,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86869,Reserved,1,1
 2026-08-21,2026-08-09,232269,Oh! Ridge,86869,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86869,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86869,Reserved,1,1
 2026-08-21,2026-08-12,232269,Oh! Ridge,86869,Reserved,1,1
 2026-08-21,2026-08-13,232269,Oh! Ridge,86869,Not Reservable,0,0
@@ -29093,7 +28970,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232269,Oh! Ridge,86931,Reserved,1,1
 2026-08-21,2026-08-08,232269,Oh! Ridge,86931,Reserved,1,1
 2026-08-21,2026-08-09,232269,Oh! Ridge,86931,Reserved,1,1
-2026-08-21,2026-08-10,232269,Oh! Ridge,86931,Not Reservable,0,0
 2026-08-21,2026-08-11,232269,Oh! Ridge,86931,Not Reservable,0,0
 2026-08-21,2026-08-12,232269,Oh! Ridge,86931,Reserved,1,1
 2026-08-21,2026-08-13,232269,Oh! Ridge,86931,Reserved,1,1
@@ -29523,7 +29399,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-17,232269,Oh! Ridge,86968,Reserved,1,1
 2026-08-21,2026-08-18,232269,Oh! Ridge,86968,Reserved,1,1
 2026-08-21,2026-08-19,232269,Oh! Ridge,86968,Reserved,1,1
-2026-08-21,2026-08-20,232269,Oh! Ridge,86968,Not Reservable,0,0
+2026-08-21,2026-08-20,232269,Oh! Ridge,86968,Reserved,1,1
 2026-08-21,2026-08-21,232269,Oh! Ridge,86968,Reserved,1,1
 2026-08-21,2026-08-22,232269,Oh! Ridge,86968,Reserved,1,1
 2026-08-21,2026-08-23,232269,Oh! Ridge,86968,Reserved,1,1
@@ -31537,7 +31413,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-20,234330,Silver Lake,84609,Reserved,1,1
 2026-08-21,2026-09-21,234330,Silver Lake,84609,Reserved,1,1
 2026-08-21,2026-09-22,234330,Silver Lake,84609,Reserved,1,1
-2026-08-21,2026-09-23,234330,Silver Lake,84609,Reserved,1,1
+2026-08-21,2026-09-23,234330,Silver Lake,84609,Available,0,1
 2026-08-21,2026-09-24,234330,Silver Lake,84609,Reserved,1,1
 2026-08-21,2026-09-25,234330,Silver Lake,84609,Reserved,1,1
 2026-08-21,2026-09-26,234330,Silver Lake,84609,Reserved,1,1
@@ -32152,7 +32028,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234330,Silver Lake,84770,Reserved,1,1
 2026-08-21,2026-08-07,234330,Silver Lake,84801,Reserved,1,1
 2026-08-21,2026-08-08,234330,Silver Lake,84801,Reserved,1,1
-2026-08-21,2026-08-10,234330,Silver Lake,84801,Not Reservable,0,0
 2026-08-21,2026-08-11,234330,Silver Lake,84801,Reserved,1,1
 2026-08-21,2026-08-12,234330,Silver Lake,84801,Reserved,1,1
 2026-08-21,2026-08-13,234330,Silver Lake,84801,Reserved,1,1
@@ -34011,7 +33886,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232268,June Lake,62261,Reserved,1,1
 2026-08-21,2026-08-08,232268,June Lake,62261,Reserved,1,1
 2026-08-21,2026-08-09,232268,June Lake,62261,Reserved,1,1
-2026-08-21,2026-08-10,232268,June Lake,62261,Not Reservable,0,0
 2026-08-21,2026-08-11,232268,June Lake,62261,Reserved,1,1
 2026-08-21,2026-08-12,232268,June Lake,62261,Reserved,1,1
 2026-08-21,2026-08-13,232268,June Lake,62261,Reserved,1,1
@@ -34371,7 +34245,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232268,June Lake,62649,Reserved,1,1
 2026-08-21,2026-08-08,232268,June Lake,62649,Reserved,1,1
 2026-08-21,2026-08-09,232268,June Lake,62649,Reserved,1,1
-2026-08-21,2026-08-10,232268,June Lake,62649,Not Reservable,0,0
 2026-08-21,2026-08-11,232268,June Lake,62649,Not Reservable,0,0
 2026-08-21,2026-08-12,232268,June Lake,62649,Reserved,1,1
 2026-08-21,2026-08-13,232268,June Lake,62649,Reserved,1,1
@@ -34610,7 +34483,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232268,June Lake,62738,Available,0,1
 2026-08-21,2026-08-07,232268,June Lake,62744,Reserved,1,1
 2026-08-21,2026-08-08,232268,June Lake,62744,Reserved,1,1
-2026-08-21,2026-08-10,232268,June Lake,62744,Not Reservable,0,0
 2026-08-21,2026-08-11,232268,June Lake,62744,Reserved,1,1
 2026-08-21,2026-08-12,232268,June Lake,62744,Reserved,1,1
 2026-08-21,2026-08-13,232268,June Lake,62744,Reserved,1,1
@@ -35230,7 +35102,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-28,233235,Reversed Creek,78024,Reserved,1,1
 2026-08-21,2026-08-29,233235,Reversed Creek,78024,Reserved,1,1
 2026-08-21,2026-08-30,233235,Reversed Creek,78024,Reserved,1,1
-2026-08-21,2026-08-31,233235,Reversed Creek,78024,Reserved,1,1
+2026-08-21,2026-08-31,233235,Reversed Creek,78024,Available,0,1
 2026-08-21,2026-09-01,233235,Reversed Creek,78024,Available,0,1
 2026-08-21,2026-09-02,233235,Reversed Creek,78024,Available,0,1
 2026-08-21,2026-09-03,233235,Reversed Creek,78024,Available,0,1
@@ -35389,7 +35261,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233235,Reversed Creek,78111,Reserved,1,1
 2026-08-21,2026-08-08,233235,Reversed Creek,78111,Reserved,1,1
 2026-08-21,2026-08-09,233235,Reversed Creek,78111,Reserved,1,1
-2026-08-21,2026-08-10,233235,Reversed Creek,78111,Not Reservable,0,0
 2026-08-21,2026-08-11,233235,Reversed Creek,78111,Not Reservable,0,0
 2026-08-21,2026-08-12,233235,Reversed Creek,78111,Reserved,1,1
 2026-08-21,2026-08-13,233235,Reversed Creek,78111,Reserved,1,1
@@ -35470,7 +35341,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-28,233235,Reversed Creek,78150,Reserved,1,1
 2026-08-21,2026-08-29,233235,Reversed Creek,78150,Reserved,1,1
 2026-08-21,2026-08-30,233235,Reversed Creek,78150,Reserved,1,1
-2026-08-21,2026-08-31,233235,Reversed Creek,78150,Reserved,1,1
+2026-08-21,2026-08-31,233235,Reversed Creek,78150,Available,0,1
 2026-08-21,2026-09-01,233235,Reversed Creek,78150,Available,0,1
 2026-08-21,2026-09-02,233235,Reversed Creek,78150,Available,0,1
 2026-08-21,2026-09-03,233235,Reversed Creek,78150,Available,0,1
@@ -35508,7 +35379,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233235,Reversed Creek,78150,Available,0,1
 2026-08-21,2026-08-08,233235,Reversed Creek,78251,Reserved,1,1
 2026-08-21,2026-08-09,233235,Reversed Creek,78251,Reserved,1,1
-2026-08-21,2026-08-10,233235,Reversed Creek,78251,Not Reservable,0,0
 2026-08-21,2026-08-11,233235,Reversed Creek,78251,Reserved,1,1
 2026-08-21,2026-08-12,233235,Reversed Creek,78251,Reserved,1,1
 2026-08-21,2026-08-13,233235,Reversed Creek,78251,Reserved,1,1
@@ -35747,7 +35617,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,233235,Reversed Creek,78281,Available,0,1
 2026-08-21,2026-08-07,233235,Reversed Creek,78392,Reserved,1,1
 2026-08-21,2026-08-08,233235,Reversed Creek,78392,Reserved,1,1
-2026-08-21,2026-08-10,233235,Reversed Creek,78392,Not Reservable,0,0
 2026-08-21,2026-08-11,233235,Reversed Creek,78392,Reserved,1,1
 2026-08-21,2026-08-12,233235,Reversed Creek,78392,Not Reservable,0,0
 2026-08-21,2026-08-13,233235,Reversed Creek,78392,Reserved,1,1
@@ -36521,7 +36390,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,10039845,Gull Lake,10039851,Reserved,1,1
 2026-08-21,2026-08-07,10039845,Gull Lake,10039852,Reserved,1,1
 2026-08-21,2026-08-08,10039845,Gull Lake,10039852,Reserved,1,1
-2026-08-21,2026-08-10,10039845,Gull Lake,10039852,Not Reservable,0,0
 2026-08-21,2026-08-11,10039845,Gull Lake,10039852,Not Reservable,0,0
 2026-08-21,2026-08-12,10039845,Gull Lake,10039852,Reserved,1,1
 2026-08-21,2026-08-13,10039845,Gull Lake,10039852,Reserved,1,1
@@ -36881,7 +36749,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234311,Convict Lake,61037,Reserved,1,1
 2026-08-21,2026-08-08,234311,Convict Lake,61037,Reserved,1,1
 2026-08-21,2026-08-09,234311,Convict Lake,61037,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61037,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61037,Reserved,1,1
 2026-08-21,2026-08-12,234311,Convict Lake,61037,Reserved,1,1
 2026-08-21,2026-08-13,234311,Convict Lake,61037,Not Reservable,0,0
@@ -37033,8 +36900,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-08,234311,Convict Lake,61123,Available,0,1
 2026-08-21,2026-09-09,234311,Convict Lake,61123,Available,0,1
 2026-08-21,2026-09-10,234311,Convict Lake,61123,Reserved,1,1
-2026-08-21,2026-09-11,234311,Convict Lake,61123,Available,0,1
-2026-08-21,2026-09-12,234311,Convict Lake,61123,Available,0,1
+2026-08-21,2026-09-11,234311,Convict Lake,61123,Reserved,1,1
+2026-08-21,2026-09-12,234311,Convict Lake,61123,Reserved,1,1
 2026-08-21,2026-09-13,234311,Convict Lake,61123,Reserved,1,1
 2026-08-21,2026-09-14,234311,Convict Lake,61123,Reserved,1,1
 2026-08-21,2026-09-15,234311,Convict Lake,61123,Reserved,1,1
@@ -37135,8 +37002,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-21,234311,Convict Lake,61189,Reserved,1,1
 2026-08-21,2026-08-22,234311,Convict Lake,61189,Reserved,1,1
 2026-08-21,2026-08-23,234311,Convict Lake,61189,Reserved,1,1
-2026-08-21,2026-08-24,234311,Convict Lake,61189,Reserved,1,1
-2026-08-21,2026-08-25,234311,Convict Lake,61189,Reserved,1,1
+2026-08-21,2026-08-24,234311,Convict Lake,61189,Not Reservable,0,0
+2026-08-21,2026-08-25,234311,Convict Lake,61189,Available,0,1
 2026-08-21,2026-08-26,234311,Convict Lake,61189,Reserved,1,1
 2026-08-21,2026-08-27,234311,Convict Lake,61189,Reserved,1,1
 2026-08-21,2026-08-28,234311,Convict Lake,61189,Reserved,1,1
@@ -37241,7 +37108,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234311,Convict Lake,61280,Reserved,1,1
 2026-08-21,2026-08-08,234311,Convict Lake,61280,Reserved,1,1
 2026-08-21,2026-08-09,234311,Convict Lake,61280,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61280,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61280,Reserved,1,1
 2026-08-21,2026-08-12,234311,Convict Lake,61280,Not Reservable,0,0
 2026-08-21,2026-08-13,234311,Convict Lake,61280,Not Reservable,0,0
@@ -37298,7 +37164,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,234311,Convict Lake,61280,Reserved,1,1
 2026-08-21,2026-10-04,234311,Convict Lake,61280,Reserved,1,1
 2026-08-21,2026-10-05,234311,Convict Lake,61280,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61343,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61343,Not Reservable,0,0
 2026-08-21,2026-08-12,234311,Convict Lake,61343,Not Reservable,0,0
 2026-08-21,2026-08-13,234311,Convict Lake,61343,Not Reservable,0,0
@@ -37897,7 +37762,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,234311,Convict Lake,61566,Reserved,1,1
 2026-08-21,2026-08-08,234311,Convict Lake,61566,Reserved,1,1
 2026-08-21,2026-08-09,234311,Convict Lake,61566,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61566,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61566,Not Reservable,0,0
 2026-08-21,2026-08-12,234311,Convict Lake,61566,Not Reservable,0,0
 2026-08-21,2026-08-13,234311,Convict Lake,61566,Reserved,1,1
@@ -38075,7 +37939,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234311,Convict Lake,61705,Reserved,1,1
 2026-08-21,2026-08-07,234311,Convict Lake,61724,Reserved,1,1
 2026-08-21,2026-08-08,234311,Convict Lake,61724,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61724,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61724,Reserved,1,1
 2026-08-21,2026-08-12,234311,Convict Lake,61724,Reserved,1,1
 2026-08-21,2026-08-13,234311,Convict Lake,61724,Reserved,1,1
@@ -38313,7 +38176,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234311,Convict Lake,61833,Reserved,1,1
 2026-08-21,2026-08-07,234311,Convict Lake,61851,Reserved,1,1
 2026-08-21,2026-08-08,234311,Convict Lake,61851,Reserved,1,1
-2026-08-21,2026-08-10,234311,Convict Lake,61851,Not Reservable,0,0
 2026-08-21,2026-08-11,234311,Convict Lake,61851,Not Reservable,0,0
 2026-08-21,2026-08-12,234311,Convict Lake,61851,Not Reservable,0,0
 2026-08-21,2026-08-13,234311,Convict Lake,61851,Reserved,1,1
@@ -38336,7 +38198,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-30,234311,Convict Lake,61851,Reserved,1,1
 2026-08-21,2026-08-31,234311,Convict Lake,61851,Reserved,1,1
 2026-08-21,2026-09-01,234311,Convict Lake,61851,Available,0,1
-2026-08-21,2026-09-02,234311,Convict Lake,61851,Reserved,1,1
+2026-08-21,2026-09-02,234311,Convict Lake,61851,Available,0,1
 2026-08-21,2026-09-03,234311,Convict Lake,61851,Available,0,1
 2026-08-21,2026-09-04,234311,Convict Lake,61851,Reserved,1,1
 2026-08-21,2026-09-05,234311,Convict Lake,61851,Reserved,1,1
@@ -39685,7 +39547,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,234311,Convict Lake,62989,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87015,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87015,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87015,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87015,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87015,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87015,Reserved,1,1
@@ -39744,7 +39605,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87015,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87016,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87016,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87016,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87016,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87016,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87016,Not Reservable,0,0
@@ -39863,7 +39723,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87019,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87031,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87031,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87031,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87031,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87031,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87031,Reserved,1,1
@@ -39922,7 +39781,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87031,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87032,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87032,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87032,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87032,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87032,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87032,Not Reservable,0,0
@@ -40101,7 +39959,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87046,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87048,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87048,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87048,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87048,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87048,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87048,Reserved,1,1
@@ -40160,7 +40017,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87048,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87053,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87053,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87053,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87053,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87053,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87053,Not Reservable,0,0
@@ -40219,7 +40075,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87053,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87071,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87071,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87071,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87071,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87071,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87071,Not Reservable,0,0
@@ -40278,7 +40133,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87071,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87084,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87084,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87084,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87084,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87084,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87084,Not Reservable,0,0
@@ -40335,7 +40189,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87084,Available,0,1
 2026-08-21,2026-10-04,232395,French Camp,87084,Available,0,1
 2026-08-21,2026-10-05,232395,French Camp,87084,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87095,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87095,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87095,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87095,Not Reservable,0,0
@@ -40394,7 +40247,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87095,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87141,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87141,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87141,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87141,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87141,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87141,Reserved,1,1
@@ -40511,7 +40363,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87152,Reserved,1,1
 2026-08-21,2026-10-04,232395,French Camp,87152,Available,0,1
 2026-08-21,2026-10-05,232395,French Camp,87152,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87158,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87158,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87158,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87158,Not Reservable,0,0
@@ -40631,7 +40482,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87166,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87166,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87166,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87166,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87166,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87166,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87166,Not Reservable,0,0
@@ -40749,7 +40599,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87175,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87196,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87196,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87196,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87196,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87196,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87196,Reserved,1,1
@@ -40866,7 +40715,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87198,Reserved,1,1
 2026-08-21,2026-10-04,232395,French Camp,87198,Available,0,1
 2026-08-21,2026-10-05,232395,French Camp,87198,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87220,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87220,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87220,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87220,Reserved,1,1
@@ -40985,7 +40833,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87264,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87264,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87264,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87264,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87264,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87264,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87264,Not Reservable,0,0
@@ -41045,7 +40892,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87282,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87282,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87282,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87282,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87282,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87282,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87282,Reserved,1,1
@@ -41104,7 +40950,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87282,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87287,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87287,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87287,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87287,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87287,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87287,Not Reservable,0,0
@@ -41163,7 +41008,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87287,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87323,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87323,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87323,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87323,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87323,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87323,Not Reservable,0,0
@@ -41222,7 +41066,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87323,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87342,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87342,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87342,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87342,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87342,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87342,Not Reservable,0,0
@@ -41281,7 +41124,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87342,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87343,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87343,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87343,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87343,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87343,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87343,Reserved,1,1
@@ -41340,7 +41182,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87343,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87351,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87351,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87351,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87351,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87351,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87351,Not Reservable,0,0
@@ -41459,7 +41300,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87403,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87427,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87427,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87427,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87427,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87427,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87427,Not Reservable,0,0
@@ -41537,8 +41377,8 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-25,232395,French Camp,87440,Available,0,1
 2026-08-21,2026-08-26,232395,French Camp,87440,Available,0,1
 2026-08-21,2026-08-27,232395,French Camp,87440,Available,0,1
-2026-08-21,2026-08-28,232395,French Camp,87440,Reserved,1,1
-2026-08-21,2026-08-29,232395,French Camp,87440,Reserved,1,1
+2026-08-21,2026-08-28,232395,French Camp,87440,Available,0,1
+2026-08-21,2026-08-29,232395,French Camp,87440,Available,0,1
 2026-08-21,2026-08-30,232395,French Camp,87440,Available,0,1
 2026-08-21,2026-08-31,232395,French Camp,87440,Available,0,1
 2026-08-21,2026-09-01,232395,French Camp,87440,Available,0,1
@@ -41579,7 +41419,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87459,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87459,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87459,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87459,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87459,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87459,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87459,Reserved,1,1
@@ -41636,7 +41475,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87459,Reserved,1,1
 2026-08-21,2026-10-04,232395,French Camp,87459,Available,0,1
 2026-08-21,2026-10-05,232395,French Camp,87459,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87468,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87468,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87468,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87468,Reserved,1,1
@@ -41696,7 +41534,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87473,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87473,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87473,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87473,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87473,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87473,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87473,Reserved,1,1
@@ -41755,7 +41592,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87473,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87505,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87505,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87505,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87505,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87505,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87505,Reserved,1,1
@@ -41935,7 +41771,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87566,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87566,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87566,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87566,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87566,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87566,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87566,Reserved,1,1
@@ -42054,7 +41889,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87575,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87580,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87580,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87580,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87580,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87580,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87580,Not Reservable,0,0
@@ -42113,7 +41947,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87580,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87587,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87587,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87587,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87587,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87587,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87587,Reserved,1,1
@@ -42230,7 +42063,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87588,Reserved,1,1
 2026-08-21,2026-10-04,232395,French Camp,87588,Reserved,1,1
 2026-08-21,2026-10-05,232395,French Camp,87588,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87589,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87589,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87589,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87589,Not Reservable,0,0
@@ -42289,7 +42121,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87589,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87597,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87597,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87597,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87597,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87597,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87597,Reserved,1,1
@@ -42349,7 +42180,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87600,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87600,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87600,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87600,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87600,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87600,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87600,Reserved,1,1
@@ -42409,7 +42239,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87631,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87631,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87631,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87631,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87631,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87631,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87631,Not Reservable,0,0
@@ -42468,7 +42297,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87631,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87642,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87642,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87642,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87642,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87642,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87642,Reserved,1,1
@@ -42587,7 +42415,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87645,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87660,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87660,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87660,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87660,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87660,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87660,Reserved,1,1
@@ -42647,7 +42474,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87666,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87666,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87666,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87666,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87666,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87666,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87666,Not Reservable,0,0
@@ -42707,7 +42533,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87671,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87671,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87671,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87671,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87671,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87671,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87671,Not Reservable,0,0
@@ -42766,7 +42591,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87671,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87686,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87686,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87686,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87686,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87686,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87686,Not Reservable,0,0
@@ -42823,7 +42647,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-03,232395,French Camp,87686,Available,0,1
 2026-08-21,2026-10-04,232395,French Camp,87686,Available,0,1
 2026-08-21,2026-10-05,232395,French Camp,87686,Available,0,1
-2026-08-21,2026-08-10,232395,French Camp,87690,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87690,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87690,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87690,Reserved,1,1
@@ -43001,7 +42824,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87699,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87699,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87699,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87699,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87699,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87699,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87699,Not Reservable,0,0
@@ -43180,7 +43002,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87755,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87760,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87760,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87760,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87760,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87760,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87760,Not Reservable,0,0
@@ -43239,7 +43060,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87760,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87791,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87791,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87791,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87791,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87791,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87791,Reserved,1,1
@@ -43298,7 +43118,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87791,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87795,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87795,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87795,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87795,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87795,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87795,Not Reservable,0,0
@@ -43358,7 +43177,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87800,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87800,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87800,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87800,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87800,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87800,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87800,Not Reservable,0,0
@@ -43417,7 +43235,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87800,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87809,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87809,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87809,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87809,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87809,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87809,Not Reservable,0,0
@@ -43595,7 +43412,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87835,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87841,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87841,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87841,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87841,Reserved,1,1
 2026-08-21,2026-08-12,232395,French Camp,87841,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87841,Not Reservable,0,0
@@ -43654,7 +43470,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87841,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87846,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87846,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87846,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87846,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87846,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87846,Reserved,1,1
@@ -43773,7 +43588,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87872,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87876,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87876,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87876,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87876,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87876,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87876,Reserved,1,1
@@ -43832,7 +43646,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87876,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87882,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87882,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87882,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87882,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87882,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87882,Not Reservable,0,0
@@ -43891,7 +43704,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87882,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87911,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87911,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87911,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87911,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87911,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87911,Reserved,1,1
@@ -44010,7 +43822,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87915,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87928,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87928,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87928,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87928,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87928,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87928,Not Reservable,0,0
@@ -44070,7 +43881,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87941,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87941,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87941,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87941,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87941,Reserved,1,1
 2026-08-21,2026-08-12,232395,French Camp,87941,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87941,Reserved,1,1
@@ -44129,7 +43939,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87941,Available,0,1
 2026-08-21,2026-08-07,232395,French Camp,87951,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87951,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87951,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87951,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87951,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87951,Not Reservable,0,0
@@ -44189,7 +43998,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87958,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87958,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87958,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87958,Reserved,1,1
@@ -44209,7 +44017,7 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-27,232395,French Camp,87958,Available,0,1
 2026-08-21,2026-08-28,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-08-29,232395,French Camp,87958,Reserved,1,1
-2026-08-21,2026-08-30,232395,French Camp,87958,Reserved,1,1
+2026-08-21,2026-08-30,232395,French Camp,87958,Available,0,1
 2026-08-21,2026-08-31,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-09-01,232395,French Camp,87958,Reserved,1,1
 2026-08-21,2026-09-02,232395,French Camp,87958,Reserved,1,1
@@ -44249,7 +44057,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87965,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87965,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87965,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87965,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87965,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87965,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87965,Reserved,1,1
@@ -44365,7 +44172,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87967,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87977,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87977,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87977,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87977,Reserved,1,1
 2026-08-21,2026-08-12,232395,French Camp,87977,Reserved,1,1
 2026-08-21,2026-08-13,232395,French Camp,87977,Reserved,1,1
@@ -44424,7 +44230,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-10-05,232395,French Camp,87977,Reserved,1,1
 2026-08-21,2026-08-07,232395,French Camp,87981,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87981,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87981,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87981,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87981,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87981,Not Reservable,0,0
@@ -44484,7 +44289,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,232395,French Camp,87983,Reserved,1,1
 2026-08-21,2026-08-08,232395,French Camp,87983,Reserved,1,1
 2026-08-21,2026-08-09,232395,French Camp,87983,Reserved,1,1
-2026-08-21,2026-08-10,232395,French Camp,87983,Not Reservable,0,0
 2026-08-21,2026-08-11,232395,French Camp,87983,Not Reservable,0,0
 2026-08-21,2026-08-12,232395,French Camp,87983,Not Reservable,0,0
 2026-08-21,2026-08-13,232395,French Camp,87983,Not Reservable,0,0
@@ -45108,7 +44912,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233907,Rock Creek Lake,89290,Reserved,1,1
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89295,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89295,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89295,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89295,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89295,Not Reservable,0,0
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89295,Not Reservable,0,0
@@ -45158,7 +44961,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233907,Rock Creek Lake,89295,Reserved,1,1
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89296,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89296,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89296,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89296,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89296,Reserved,1,1
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89296,Reserved,1,1
@@ -45361,7 +45163,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233907,Rock Creek Lake,89436,Reserved,1,1
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89472,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89472,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89472,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89472,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89472,Reserved,1,1
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89472,Reserved,1,1
@@ -45514,7 +45315,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89589,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89589,Reserved,1,1
 2026-08-21,2026-08-09,233907,Rock Creek Lake,89589,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89589,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89589,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89589,Not Reservable,0,0
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89589,Not Reservable,0,0
@@ -45614,7 +45414,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-09-26,233907,Rock Creek Lake,89624,Reserved,1,1
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89671,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89671,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89671,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89671,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89671,Reserved,1,1
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89671,Reserved,1,1
@@ -45869,7 +45668,6 @@ snapshot_date,stay_date,campground_id,campground_name,site_id,site_status,occupi
 2026-08-21,2026-08-07,233907,Rock Creek Lake,89920,Reserved,1,1
 2026-08-21,2026-08-08,233907,Rock Creek Lake,89920,Reserved,1,1
 2026-08-21,2026-08-09,233907,Rock Creek Lake,89920,Reserved,1,1
-2026-08-21,2026-08-10,233907,Rock Creek Lake,89920,Not Reservable,0,0
 2026-08-21,2026-08-11,233907,Rock Creek Lake,89920,Not Reservable,0,0
 2026-08-21,2026-08-12,233907,Rock Creek Lake,89920,Reserved,1,1
 2026-08-21,2026-08-13,233907,Rock Creek Lake,89920,Reserved,1,1
