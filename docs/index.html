@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mammoth Lakes Campground Occupancy</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#ffffff; --ink:#0f172a; --muted:#64748b; --line:#e2e8f0;
+    --accent:#0f766e; --accent-soft:#ccfbf1; --lastyear:#94a3b8;
+    --up:#15803d; --down:#b91c1c;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:960px; margin:0 auto; padding:32px 20px 64px}
+  header h1{font-size:1.5rem; font-weight:650; margin:0 0 4px}
+  header .sub{color:var(--muted); font-size:.9rem; margin:0}
+  header .meta{color:var(--muted); font-size:.8rem; margin-top:8px}
+  .banner{background:#fffbeb; border:1px solid #fde68a; color:#92400e;
+    padding:12px 16px; border-radius:10px; margin:20px 0; font-size:.9rem}
+
+  .cards{display:grid; grid-template-columns:repeat(5,1fr); gap:12px; margin:24px 0 8px}
+  .card{border:1px solid var(--line); border-radius:12px; padding:16px}
+  .card .label{color:var(--muted); font-size:.78rem; text-transform:uppercase;
+    letter-spacing:.03em; margin-bottom:6px}
+  .card .val{font-size:1.9rem; font-weight:650; font-variant-numeric:tabular-nums; line-height:1}
+  .card .val small{font-size:.85rem; font-weight:500; color:var(--muted)}
+  .card .delta{font-size:.8rem; font-weight:600; margin-top:8px; min-height:1.1em; font-variant-numeric:tabular-nums}
+  @media(max-width:720px){ .cards{grid-template-columns:repeat(2,1fr)} }
+
+  section{margin-top:40px}
+  h2{font-size:1.05rem; font-weight:600; margin:0 0 4px}
+  .hint{color:var(--muted); font-size:.82rem; margin:0 0 14px}
+
+  .controls{display:flex; gap:8px; align-items:center; margin-bottom:12px}
+  select{font:inherit; padding:7px 10px; border:1px solid var(--line);
+    border-radius:8px; background:#fff; color:var(--ink)}
+  .chartbox{border:1px solid var(--line); border-radius:12px; padding:14px 8px 6px}
+
+  table{width:100%; border-collapse:collapse; font-variant-numeric:tabular-nums}
+  th,td{padding:10px 8px; text-align:right; border-bottom:1px solid var(--line); font-size:.92rem}
+  th:first-child,td:first-child{text-align:left}
+  thead th{color:var(--muted); font-weight:600; font-size:.78rem; text-transform:uppercase;
+    letter-spacing:.02em; cursor:pointer; user-select:none; white-space:nowrap}
+  thead th.sorted::after{content:" \25BE"; color:var(--accent)}
+  tbody tr:hover{background:#f8fafc}
+  .cluster{color:var(--muted); font-size:.78rem}
+  .delta-up{color:var(--up)} .delta-down{color:var(--down)} .delta-none{color:var(--muted)}
+  .tablescroll{overflow-x:auto}
+
+  details{margin-top:40px; border:1px solid var(--line); border-radius:12px; padding:0 16px}
+  summary{cursor:pointer; padding:14px 0; font-weight:600; font-size:.92rem}
+  details[open]{padding-bottom:8px}
+  .debug td,.debug th{font-size:.85rem}
+  code{background:#f1f5f9; padding:1px 5px; border-radius:4px; font-size:.85em}
+  footer{margin-top:48px; color:var(--muted); font-size:.78rem; line-height:1.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Mammoth Lakes Campground Occupancy</h1>
+    <p class="sub">Reserved occupancy of reservable campgrounds &middot; source: Recreation.gov</p>
+    <p class="meta" id="meta"></p>
+  </header>
+
+  <div id="banner" class="banner" hidden></div>
+
+  <div class="cards">
+    <div class="card"><div class="label">Tonight</div><div class="val" id="m-tonight">&mdash;</div></div>
+    <div class="card"><div class="label">Upcoming Fri&ndash;Sun</div><div class="val" id="m-frisun">&mdash;</div><div class="delta" id="d-frisun"></div></div>
+    <div class="card"><div class="label">Upcoming 10-day (Fri&ndash;Sun)</div><div class="val" id="m-tenday">&mdash;</div><div class="delta" id="d-tenday"></div></div>
+    <div class="card"><div class="label">Reservable sites</div><div class="val" id="m-sites">&mdash;</div></div>
+    <div class="card"><div class="label">Campgrounds</div><div class="val" id="m-cgs">&mdash;</div></div>
+  </div>
+
+  <section>
+    <h2>Occupancy over time</h2>
+    <p class="hint">Reserved occupancy % by night. Previous 14 days and upcoming 30. The line at today separates observed nights from upcoming demand.</p>
+    <div class="controls">
+      <label for="pick" class="hint" style="margin:0">Show:</label>
+      <select id="pick"><option value="__agg__">All campgrounds (destination-wide)</option></select>
+    </div>
+    <div class="chartbox"><canvas id="chart" height="150"></canvas></div>
+  </section>
+
+  <section>
+    <h2>By campground &mdash; tonight</h2>
+    <p class="hint">Occupied and sellable inventory for tonight; the &Delta; columns show each window's occupancy change vs. last week. Click a column to sort.</p>
+    <div class="tablescroll">
+      <table id="cgtable">
+        <thead><tr>
+          <th data-k="name">Campground</th>
+          <th data-k="occupied">Occupied</th>
+          <th data-k="inventory">Available Inventory</th>
+          <th data-k="pct" class="sorted">Occupancy&nbsp;%</th>
+          <th data-k="frisun_delta">&Delta;&nbsp;Fri&ndash;Sun</th>
+          <th data-k="tenday_delta">&Delta;&nbsp;10-day</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Upcoming weekends</h2>
+    <p class="hint">Which Friday&ndash;Sunday weekends are filling fastest. Sites remaining counts open site-nights across Friday, Saturday, and Sunday.</p>
+    <div class="tablescroll">
+      <table id="wktable">
+        <thead><tr><th>Weekend (Fri&ndash;Sun)</th><th>Occupancy&nbsp;%</th><th>Sites Remaining</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <details class="debug">
+    <summary>Validation &mdash; campground &rarr; Recreation.gov ID &rarr; reservable sites</summary>
+    <p class="hint">Compare these counts against Recreation.gov by hand. Counts are tonight's sellable sites, so a campground with a loop closing early in the season may read slightly below its peak-summer total.</p>
+    <div class="tablescroll">
+      <table id="dbgtable">
+        <thead><tr><th>Campground</th><th>Rec.gov ID</th><th>Reservable sites</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </details>
+
+  <footer>
+    <strong>Reserved occupancy</strong> counts nights with a booking (status <code>Reserved</code>) against sellable inventory (<code>Available</code> + <code>Reserved</code>). Closed, out-of-season, and non-reservable sites are excluded from both. It measures reservations, not whether the holder showed up. Week-over-week and year-over-year fill in as daily snapshots accumulate.
+  </footer>
+</div>
+
+<script>
+const fmtPct = v => v == null ? "\u2014" : v.toFixed(1) + "%";
+function deltaClass(v){ return v > 0 ? "delta-up" : v < 0 ? "delta-down" : "delta-none"; }
+function deltaCard(v){
+  if(v == null) return "<span class='delta-none'>vs last wk \u2014</span>";
+  const s = v > 0 ? "+" : "";
+  return `<span class="${deltaClass(v)}">${s}${v.toFixed(1)} pts</span> <span class="delta-none">vs last wk</span>`;
+}
+function deltaCell(v){
+  if(v == null) return "<span class='delta-none'>\u2014</span>";
+  const s = v > 0 ? "+" : "";
+  return `<span class="${deltaClass(v)}">${s}${v.toFixed(1)}</span>`;
+}
+let DATA, chart, selected = "__agg__";
+
+function setMeta(d){
+  const el = document.getElementById("meta");
+  if(!d.latest_snapshot){ el.textContent = ""; return; }
+  el.textContent = `Latest snapshot ${d.latest_snapshot} \u00b7 ${d.snapshot_count} snapshot(s) on record \u00b7 built ${d.generated_at}`;
+}
+
+function emptyState(d){
+  if(d.snapshot_count > 0) return false;
+  const b = document.getElementById("banner");
+  b.hidden = false;
+  b.textContent = "No snapshots yet. The first numbers appear after the daily job runs once; week-over-week needs about a week of history, and year-over-year fills in after a year.";
+  return true;
+}
+
+function summary(d){
+  const s = d.summary;
+  document.getElementById("m-tonight").innerHTML = fmtPct(s.tonight_pct);
+  document.getElementById("m-frisun").innerHTML = fmtPct(s.frisun_pct)
+    + (s.frisun_label ? ` <small>${s.frisun_label}</small>` : "");
+  document.getElementById("m-tenday").innerHTML = fmtPct(s.tenday_pct)
+    + (s.tenday_label ? ` <small>${s.tenday_label}</small>` : "");
+  document.getElementById("d-frisun").innerHTML = deltaCard(s.frisun_delta);
+  document.getElementById("d-tenday").innerHTML = deltaCard(s.tenday_delta);
+  document.getElementById("m-sites").textContent = s.reservable_sites || "\u2014";
+  document.getElementById("m-cgs").textContent = s.campgrounds;
+}
+
+function buildPicker(d){
+  const pick = document.getElementById("pick");
+  d.campgrounds.forEach(c => {
+    const o = document.createElement("option");
+    o.value = c.id; o.textContent = c.name; pick.appendChild(o);
+  });
+  pick.addEventListener("change", e => { selected = e.target.value; drawChart(); });
+}
+
+// faint vertical line at "today" (index = days_back into the series)
+const todayLine = {
+  id: "todayLine",
+  afterDraw(c){
+    const dates = DATA.series.dates;
+    const t = new Date().toISOString().slice(0,10);
+    let i = dates.indexOf(t); if(i < 0) return;
+    const x = c.scales.x.getPixelForValue(i);
+    const {top,bottom} = c.chartArea; const ctx = c.ctx;
+    ctx.save(); ctx.strokeStyle = "#cbd5e1"; ctx.setLineDash([4,4]);
+    ctx.beginPath(); ctx.moveTo(x,top); ctx.lineTo(x,bottom); ctx.stroke(); ctx.restore();
+  }
+};
+
+function drawChart(){
+  const d = DATA, dates = d.series.dates;
+  const main = selected === "__agg__" ? d.series.aggregate : d.series.by_campground[selected];
+  const ds = [{
+    label: selected === "__agg__" ? "This year" : d.campgrounds.find(c=>c.id===selected).name,
+    data: main, borderColor: "#0f766e", backgroundColor: "rgba(15,118,110,.08)",
+    borderWidth: 2, pointRadius: 0, tension: .25, fill: true, spanGaps: true
+  }];
+  if(selected === "__agg__" && d.series.last_year_aggregate){
+    ds.push({ label: "Last year", data: d.series.last_year_aggregate,
+      borderColor: "#94a3b8", borderWidth: 1.5, borderDash:[5,4],
+      pointRadius: 0, tension: .25, fill: false, spanGaps: true });
+  }
+  const labels = dates.map(s => { const [y,m,dd]=s.split("-"); return `${+m}/${+dd}`; });
+  if(chart) chart.destroy();
+  chart = new Chart(document.getElementById("chart"), {
+    type: "line",
+    data: { labels, datasets: ds },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: "index", intersect: false },
+      scales: {
+        y: { min: 0, max: 100, ticks: { callback: v => v + "%" },
+             grid: { color: "#f1f5f9" } },
+        x: { grid: { display: false }, ticks: { maxTicksLimit: 12, autoSkip: true } }
+      },
+      plugins: {
+        legend: { display: ds.length > 1, position: "bottom" },
+        tooltip: { callbacks: { label: c => `${c.dataset.label}: ${c.parsed.y==null?"\u2014":c.parsed.y+"%"}` } }
+      }
+    },
+    plugins: [todayLine]
+  });
+}
+
+let sortKey = "pct", sortDir = -1;
+function drawTable(){
+  const tb = document.querySelector("#cgtable tbody");
+  const rows = [...DATA.campgrounds].sort((a,b)=>{
+    const av=a[sortKey], bv=b[sortKey];
+    if(av==null && bv==null) return 0;
+    if(av==null) return 1; if(bv==null) return -1;
+    if(typeof av === "string") return sortDir * av.localeCompare(bv);
+    return sortDir * (av - bv);
+  });
+  tb.innerHTML = rows.map(c => `<tr>
+      <td>${c.name}<div class="cluster">${c.cluster}</div></td>
+      <td>${c.occupied}</td><td>${c.inventory}</td>
+      <td>${fmtPct(c.pct)}</td>
+      <td>${deltaCell(c.frisun_delta)}</td>
+      <td>${deltaCell(c.tenday_delta)}</td></tr>`).join("");
+  document.querySelectorAll("#cgtable thead th").forEach(th=>{
+    th.classList.toggle("sorted", th.dataset.k === sortKey);
+  });
+}
+document.querySelectorAll("#cgtable thead th").forEach(th=>{
+  th.addEventListener("click", ()=>{
+    const k = th.dataset.k;
+    if(k === sortKey) sortDir *= -1;
+    else { sortKey = k; sortDir = (k === "name") ? 1 : -1; }
+    drawTable();
+  });
+});
+
+function drawWeekends(){
+  document.querySelector("#wktable tbody").innerHTML = DATA.weekends.map(w =>
+    `<tr><td>${w.label}</td><td>${fmtPct(w.occupancy_pct)}</td>
+     <td>${w.sites_remaining==null?"\u2014":w.sites_remaining}</td></tr>`).join("");
+}
+function drawDebug(){
+  document.querySelector("#dbgtable tbody").innerHTML = DATA.roster_debug.map(r =>
+    `<tr><td>${r.name}</td><td>${r.id}</td><td>${r.reservable_sites}</td></tr>`).join("");
+}
+
+fetch("dashboard_data.json?" + Date.now())
+  .then(r => r.json())
+  .then(d => {
+    DATA = d; setMeta(d); summary(d); buildPicker(d);
+    emptyState(d);
+    drawChart(); drawTable(); drawWeekends(); drawDebug();
+  })
+  .catch(e => {
+    const b = document.getElementById("banner");
+    b.hidden = false; b.textContent = "Could not load dashboard_data.json. If this is a fresh deploy, run the snapshot job once.";
+  });
+</script>
+</body>
+</html>
