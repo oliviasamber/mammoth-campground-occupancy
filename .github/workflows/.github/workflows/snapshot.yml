@@ -1,0 +1,31 @@
+name: Daily occupancy snapshot
+
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install requests
+      - name: Take snapshot
+        run: python snapshot.py
+      - name: Rebuild dashboard data
+        run: python build_dashboard_data.py
+      - name: Commit snapshot + dashboard data
+        run: |
+          git config user.name "occupancy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add snapshots docs/dashboard_data.json
+          git commit -m "Snapshot $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
