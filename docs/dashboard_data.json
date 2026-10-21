@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-20T18:54:15Z",
-  "snapshot_count": 59,
-  "latest_snapshot": "2026-10-20",
+  "generated_at": "2026-10-21T19:07:14Z",
+  "snapshot_count": 60,
+  "latest_snapshot": "2026-10-21",
   "summary": {
     "tonight_pct": 100.0,
-    "frisun_pct": 69.0,
+    "frisun_pct": 79.4,
     "frisun_label": "Fri Oct 23\u2013Sun Oct 25",
-    "frisun_delta": 8.6,
-    "tenday_pct": 69.0,
+    "frisun_delta": 19.1,
+    "tenday_pct": 79.4,
     "tenday_label": "Oct 23\u2013Nov 1",
-    "tenday_delta": 8.6,
+    "tenday_delta": 19.1,
     "reservable_sites": 240,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-10-06",
       "2026-10-07",
       "2026-10-08",
       "2026-10-09",
@@ -59,7 +58,8 @@
       "2026-11-16",
       "2026-11-17",
       "2026-11-18",
-      "2026-11-19"
+      "2026-11-19",
+      "2026-11-20"
     ],
     "aggregate": [
       100.0,
@@ -78,9 +78,9 @@
       100.0,
       100.0,
       100.0,
-      56.8,
-      82.2,
-      59.7,
+      79.1,
+      79.6,
+      null,
       null,
       null,
       null,
@@ -115,7 +115,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -361,9 +361,9 @@
         100.0,
         100.0,
         100.0,
-        11.1,
-        37.8,
-        37.8,
+        35.6,
+        35.6,
+        null,
         null,
         null,
         null,
@@ -444,7 +444,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -502,9 +502,9 @@
         100.0,
         100.0,
         100.0,
-        64.3,
-        98.2,
-        98.2,
+        92.6,
+        92.6,
+        null,
         null,
         null,
         null,
@@ -538,7 +538,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -585,7 +585,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -632,7 +632,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -692,7 +692,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -739,7 +739,7 @@
         100.0,
         100.0,
         100.0,
-        22.9,
+        null,
         null,
         null,
         null,
@@ -872,11 +872,11 @@
       "id": "233830",
       "name": "Old Shady Rest",
       "cluster": "Mammoth Basin & town",
-      "occupied": 4,
-      "inventory": 4,
+      "occupied": 6,
+      "inventory": 6,
       "pct": 100.0,
-      "frisun_delta": -2.2,
-      "tenday_delta": -2.2
+      "frisun_delta": -8.8,
+      "tenday_delta": -8.8
     },
     {
       "id": "232270",
@@ -905,8 +905,8 @@
       "occupied": 34,
       "inventory": 34,
       "pct": 100.0,
-      "frisun_delta": -1.8,
-      "tenday_delta": -1.8
+      "frisun_delta": -7.4,
+      "tenday_delta": -7.4
     },
     {
       "id": "232268",
@@ -942,11 +942,11 @@
       "id": "234311",
       "name": "Convict Lake",
       "cluster": "395 corridor",
-      "occupied": 31,
-      "inventory": 31,
+      "occupied": 26,
+      "inventory": 26,
       "pct": 100.0,
-      "frisun_delta": 12.5,
-      "tenday_delta": 12.5
+      "frisun_delta": 16.7,
+      "tenday_delta": 16.7
     },
     {
       "id": "232395",
@@ -955,8 +955,8 @@
       "occupied": 11,
       "inventory": 11,
       "pct": 100.0,
-      "frisun_delta": 9.6,
-      "tenday_delta": 9.6
+      "frisun_delta": 72.3,
+      "tenday_delta": 72.3
     },
     {
       "id": "233907",
@@ -972,8 +972,8 @@
   "weekends": [
     {
       "label": "Fri Oct 23\u2013Sun Oct 25",
-      "occupancy_pct": 69.0,
-      "sites_remaining": 122
+      "occupancy_pct": 79.4,
+      "sites_remaining": 66
     },
     {
       "label": "Fri Oct 30\u2013Sun Nov 1",
