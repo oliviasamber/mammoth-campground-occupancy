@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-22T19:03:28Z",
-  "snapshot_count": 61,
-  "latest_snapshot": "2026-10-22",
+  "generated_at": "2026-10-23T18:53:37Z",
+  "snapshot_count": 62,
+  "latest_snapshot": "2026-10-23",
   "summary": {
     "tonight_pct": 100.0,
-    "frisun_pct": 87.4,
+    "frisun_pct": 100.0,
     "frisun_label": "Fri Oct 23\u2013Sun Oct 25",
-    "frisun_delta": 26.7,
-    "tenday_pct": 87.4,
+    "frisun_delta": 39.7,
+    "tenday_pct": 100.0,
     "tenday_label": "Oct 23\u2013Nov 1",
-    "tenday_delta": 26.7,
+    "tenday_delta": 39.7,
     "reservable_sites": 240,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-10-08",
       "2026-10-09",
       "2026-10-10",
       "2026-10-11",
@@ -59,7 +58,8 @@
       "2026-11-18",
       "2026-11-19",
       "2026-11-20",
-      "2026-11-21"
+      "2026-11-21",
+      "2026-11-22"
     ],
     "aggregate": [
       100.0,
@@ -78,7 +78,7 @@
       100.0,
       100.0,
       100.0,
-      77.8,
+      null,
       null,
       null,
       null,
@@ -113,7 +113,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -361,7 +361,7 @@
         100.0,
         100.0,
         100.0,
-        37.8,
+        null,
         null,
         null,
         null,
@@ -442,7 +442,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -502,7 +502,7 @@
         100.0,
         100.0,
         100.0,
-        87.0,
+        null,
         null,
         null,
         null,
@@ -536,7 +536,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -583,7 +583,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -630,7 +630,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -690,7 +690,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -737,7 +737,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -872,11 +872,11 @@
       "id": "233830",
       "name": "Old Shady Rest",
       "cluster": "Mammoth Basin & town",
-      "occupied": 5,
-      "inventory": 5,
+      "occupied": 17,
+      "inventory": 17,
       "pct": 100.0,
-      "frisun_delta": 10.4,
-      "tenday_delta": 10.4
+      "frisun_delta": 55.6,
+      "tenday_delta": 55.6
     },
     {
       "id": "232270",
@@ -902,11 +902,11 @@
       "id": "234330",
       "name": "Silver Lake",
       "cluster": "June Lake Loop",
-      "occupied": 33,
-      "inventory": 33,
+      "occupied": 44,
+      "inventory": 44,
       "pct": 100.0,
-      "frisun_delta": -6.9,
-      "tenday_delta": -6.9
+      "frisun_delta": 1.7,
+      "tenday_delta": 1.7
     },
     {
       "id": "232268",
@@ -942,21 +942,21 @@
       "id": "234311",
       "name": "Convict Lake",
       "cluster": "395 corridor",
-      "occupied": 23,
-      "inventory": 23,
+      "occupied": 38,
+      "inventory": 38,
       "pct": 100.0,
-      "frisun_delta": 12.5,
-      "tenday_delta": 12.5
+      "frisun_delta": 16.7,
+      "tenday_delta": 16.7
     },
     {
       "id": "232395",
       "name": "French Camp",
       "cluster": "South 395 / Rock Creek",
-      "occupied": 12,
-      "inventory": 12,
+      "occupied": 16,
+      "inventory": 16,
       "pct": 100.0,
-      "frisun_delta": 73.5,
-      "tenday_delta": 73.5
+      "frisun_delta": 71.1,
+      "tenday_delta": 71.1
     },
     {
       "id": "233907",
@@ -972,8 +972,8 @@
   "weekends": [
     {
       "label": "Fri Oct 23\u2013Sun Oct 25",
-      "occupancy_pct": 87.4,
-      "sites_remaining": 35
+      "occupancy_pct": 100.0,
+      "sites_remaining": 0
     },
     {
       "label": "Fri Oct 30\u2013Sun Nov 1",
