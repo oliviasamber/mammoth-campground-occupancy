@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-23T18:53:37Z",
-  "snapshot_count": 62,
-  "latest_snapshot": "2026-10-23",
+  "generated_at": "2026-10-24T17:49:35Z",
+  "snapshot_count": 63,
+  "latest_snapshot": "2026-10-24",
   "summary": {
     "tonight_pct": 100.0,
-    "frisun_pct": 100.0,
-    "frisun_label": "Fri Oct 23\u2013Sun Oct 25",
-    "frisun_delta": 39.7,
-    "tenday_pct": 100.0,
-    "tenday_label": "Oct 23\u2013Nov 1",
-    "tenday_delta": 39.7,
+    "frisun_pct": null,
+    "frisun_label": "Fri Oct 30\u2013Sun Nov 1",
+    "frisun_delta": null,
+    "tenday_pct": null,
+    "tenday_label": "Oct 30\u2013Nov 8",
+    "tenday_delta": null,
     "reservable_sites": 240,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-10-09",
       "2026-10-10",
       "2026-10-11",
       "2026-10-12",
@@ -59,7 +58,8 @@
       "2026-11-19",
       "2026-11-20",
       "2026-11-21",
-      "2026-11-22"
+      "2026-11-22",
+      "2026-11-23"
     ],
     "aggregate": [
       100.0,
@@ -77,7 +77,7 @@
       100.0,
       100.0,
       100.0,
-      100.0,
+      null,
       null,
       null,
       null,
@@ -112,7 +112,7 @@
       "234329": [
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -360,7 +360,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -441,7 +441,7 @@
       "232269": [
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -501,7 +501,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -535,7 +535,7 @@
       "232268": [
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -582,7 +582,7 @@
       "233235": [
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -629,7 +629,7 @@
       "10039845": [
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -689,7 +689,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -736,7 +736,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -872,11 +872,11 @@
       "id": "233830",
       "name": "Old Shady Rest",
       "cluster": "Mammoth Basin & town",
-      "occupied": 17,
-      "inventory": 17,
+      "occupied": 18,
+      "inventory": 18,
       "pct": 100.0,
-      "frisun_delta": 55.6,
-      "tenday_delta": 55.6
+      "frisun_delta": null,
+      "tenday_delta": null
     },
     {
       "id": "232270",
@@ -902,11 +902,11 @@
       "id": "234330",
       "name": "Silver Lake",
       "cluster": "June Lake Loop",
-      "occupied": 44,
-      "inventory": 44,
+      "occupied": 47,
+      "inventory": 47,
       "pct": 100.0,
-      "frisun_delta": 1.7,
-      "tenday_delta": 1.7
+      "frisun_delta": null,
+      "tenday_delta": null
     },
     {
       "id": "232268",
@@ -942,11 +942,11 @@
       "id": "234311",
       "name": "Convict Lake",
       "cluster": "395 corridor",
-      "occupied": 38,
-      "inventory": 38,
+      "occupied": 41,
+      "inventory": 41,
       "pct": 100.0,
-      "frisun_delta": 16.7,
-      "tenday_delta": 16.7
+      "frisun_delta": null,
+      "tenday_delta": null
     },
     {
       "id": "232395",
@@ -955,8 +955,8 @@
       "occupied": 16,
       "inventory": 16,
       "pct": 100.0,
-      "frisun_delta": 71.1,
-      "tenday_delta": 71.1
+      "frisun_delta": null,
+      "tenday_delta": null
     },
     {
       "id": "233907",
@@ -970,11 +970,6 @@
     }
   ],
   "weekends": [
-    {
-      "label": "Fri Oct 23\u2013Sun Oct 25",
-      "occupancy_pct": 100.0,
-      "sites_remaining": 0
-    },
     {
       "label": "Fri Oct 30\u2013Sun Nov 1",
       "occupancy_pct": null,
@@ -997,6 +992,11 @@
     },
     {
       "label": "Fri Nov 27\u2013Sun Nov 29",
+      "occupancy_pct": null,
+      "sites_remaining": null
+    },
+    {
+      "label": "Fri Dec 4\u2013Sun Dec 6",
       "occupancy_pct": null,
       "sites_remaining": null
     }
