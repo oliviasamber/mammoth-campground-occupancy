@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-24T17:49:35Z",
-  "snapshot_count": 63,
-  "latest_snapshot": "2026-10-24",
+  "generated_at": "2026-10-25T18:06:52Z",
+  "snapshot_count": 64,
+  "latest_snapshot": "2026-10-25",
   "summary": {
-    "tonight_pct": 100.0,
+    "tonight_pct": null,
     "frisun_pct": null,
     "frisun_label": "Fri Oct 30\u2013Sun Nov 1",
     "frisun_delta": null,
     "tenday_pct": null,
     "tenday_label": "Oct 30\u2013Nov 8",
     "tenday_delta": null,
-    "reservable_sites": 240,
+    "reservable_sites": 1,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-10-10",
       "2026-10-11",
       "2026-10-12",
       "2026-10-13",
@@ -59,7 +58,8 @@
       "2026-11-20",
       "2026-11-21",
       "2026-11-22",
-      "2026-11-23"
+      "2026-11-23",
+      "2026-11-24"
     ],
     "aggregate": [
       100.0,
@@ -76,7 +76,7 @@
       100.0,
       100.0,
       100.0,
-      100.0,
+      null,
       null,
       null,
       null,
@@ -111,7 +111,7 @@
     "by_campground": {
       "234329": [
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -359,7 +359,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -440,7 +440,7 @@
       ],
       "232269": [
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -500,7 +500,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -534,7 +534,7 @@
       ],
       "232268": [
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -581,7 +581,7 @@
       ],
       "233235": [
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -628,7 +628,7 @@
       ],
       "10039845": [
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -688,7 +688,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -735,7 +735,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -872,9 +872,9 @@
       "id": "233830",
       "name": "Old Shady Rest",
       "cluster": "Mammoth Basin & town",
-      "occupied": 18,
-      "inventory": 18,
-      "pct": 100.0,
+      "occupied": 0,
+      "inventory": 0,
+      "pct": null,
       "frisun_delta": null,
       "tenday_delta": null
     },
@@ -902,9 +902,9 @@
       "id": "234330",
       "name": "Silver Lake",
       "cluster": "June Lake Loop",
-      "occupied": 47,
-      "inventory": 47,
-      "pct": 100.0,
+      "occupied": 0,
+      "inventory": 0,
+      "pct": null,
       "frisun_delta": null,
       "tenday_delta": null
     },
@@ -942,9 +942,9 @@
       "id": "234311",
       "name": "Convict Lake",
       "cluster": "395 corridor",
-      "occupied": 41,
-      "inventory": 41,
-      "pct": 100.0,
+      "occupied": 0,
+      "inventory": 0,
+      "pct": null,
       "frisun_delta": null,
       "tenday_delta": null
     },
@@ -952,9 +952,9 @@
       "id": "232395",
       "name": "French Camp",
       "cluster": "South 395 / Rock Creek",
-      "occupied": 16,
-      "inventory": 16,
-      "pct": 100.0,
+      "occupied": 0,
+      "inventory": 0,
+      "pct": null,
       "frisun_delta": null,
       "tenday_delta": null
     },
@@ -1030,7 +1030,7 @@
     {
       "name": "Old Shady Rest",
       "id": "233830",
-      "reservable_sites": 45
+      "reservable_sites": 0
     },
     {
       "name": "Pine Glen",
@@ -1045,7 +1045,7 @@
     {
       "name": "Silver Lake",
       "id": "234330",
-      "reservable_sites": 63
+      "reservable_sites": 0
     },
     {
       "name": "June Lake",
@@ -1065,12 +1065,12 @@
     {
       "name": "Convict Lake",
       "id": "234311",
-      "reservable_sites": 48
+      "reservable_sites": 0
     },
     {
       "name": "French Camp",
       "id": "232395",
-      "reservable_sites": 83
+      "reservable_sites": 0
     },
     {
       "name": "Rock Creek Lake",
