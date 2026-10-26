@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T18:06:52Z",
-  "snapshot_count": 64,
-  "latest_snapshot": "2026-10-25",
+  "generated_at": "2026-10-26T20:18:29Z",
+  "snapshot_count": 65,
+  "latest_snapshot": "2026-10-26",
   "summary": {
     "tonight_pct": null,
     "frisun_pct": null,
@@ -15,7 +15,6 @@
   },
   "series": {
     "dates": [
-      "2026-10-11",
       "2026-10-12",
       "2026-10-13",
       "2026-10-14",
@@ -59,7 +58,8 @@
       "2026-11-21",
       "2026-11-22",
       "2026-11-23",
-      "2026-11-24"
+      "2026-11-24",
+      "2026-11-25"
     ],
     "aggregate": [
       100.0,
@@ -75,7 +75,7 @@
       100.0,
       100.0,
       100.0,
-      100.0,
+      null,
       null,
       null,
       null,
@@ -110,7 +110,7 @@
     ],
     "by_campground": {
       "234329": [
-        100.0,
+        null,
         null,
         null,
         null,
@@ -358,7 +358,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -439,7 +439,7 @@
         null
       ],
       "232269": [
-        100.0,
+        null,
         null,
         null,
         null,
@@ -499,7 +499,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -533,7 +533,7 @@
         null
       ],
       "232268": [
-        100.0,
+        null,
         null,
         null,
         null,
@@ -580,7 +580,7 @@
         null
       ],
       "233235": [
-        100.0,
+        null,
         null,
         null,
         null,
@@ -627,7 +627,7 @@
         null
       ],
       "10039845": [
-        100.0,
+        null,
         null,
         null,
         null,
@@ -687,7 +687,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -734,7 +734,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
