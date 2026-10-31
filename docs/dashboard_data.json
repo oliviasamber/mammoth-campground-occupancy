@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-10-30T19:50:52Z",
-  "snapshot_count": 69,
-  "latest_snapshot": "2026-10-30",
+  "generated_at": "2026-10-31T19:05:28Z",
+  "snapshot_count": 70,
+  "latest_snapshot": "2026-10-31",
   "summary": {
     "tonight_pct": null,
     "frisun_pct": null,
-    "frisun_label": "Fri Oct 30\u2013Sun Nov 1",
+    "frisun_label": "Fri Nov 6\u2013Sun Nov 8",
     "frisun_delta": null,
     "tenday_pct": null,
-    "tenday_label": "Oct 30\u2013Nov 8",
+    "tenday_label": "Nov 6\u2013Nov 15",
     "tenday_delta": null,
     "reservable_sites": 1,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-10-16",
       "2026-10-17",
       "2026-10-18",
       "2026-10-19",
@@ -59,7 +58,8 @@
       "2026-11-26",
       "2026-11-27",
       "2026-11-28",
-      "2026-11-29"
+      "2026-11-29",
+      "2026-11-30"
     ],
     "aggregate": [
       100.0,
@@ -70,7 +70,7 @@
       100.0,
       100.0,
       100.0,
-      100.0,
+      null,
       null,
       null,
       null,
@@ -353,7 +353,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -494,7 +494,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -682,7 +682,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -729,7 +729,7 @@
         100.0,
         100.0,
         100.0,
-        100.0,
+        null,
         null,
         null,
         null,
@@ -971,11 +971,6 @@
   ],
   "weekends": [
     {
-      "label": "Fri Oct 30\u2013Sun Nov 1",
-      "occupancy_pct": null,
-      "sites_remaining": null
-    },
-    {
       "label": "Fri Nov 6\u2013Sun Nov 8",
       "occupancy_pct": null,
       "sites_remaining": null
@@ -997,6 +992,11 @@
     },
     {
       "label": "Fri Dec 4\u2013Sun Dec 6",
+      "occupancy_pct": null,
+      "sites_remaining": null
+    },
+    {
+      "label": "Fri Dec 11\u2013Sun Dec 13",
       "occupancy_pct": null,
       "sites_remaining": null
     }
