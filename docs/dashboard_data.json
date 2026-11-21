@@ -1,21 +1,20 @@
 {
-  "generated_at": "2026-11-20T22:07:06Z",
-  "snapshot_count": 90,
-  "latest_snapshot": "2026-11-20",
+  "generated_at": "2026-11-21T20:46:46Z",
+  "snapshot_count": 91,
+  "latest_snapshot": "2026-11-21",
   "summary": {
     "tonight_pct": null,
     "frisun_pct": null,
-    "frisun_label": "Fri Nov 20\u2013Sun Nov 22",
+    "frisun_label": "Fri Nov 27\u2013Sun Nov 29",
     "frisun_delta": null,
     "tenday_pct": null,
-    "tenday_label": "Nov 20\u2013Nov 29",
+    "tenday_label": "Nov 27\u2013Dec 6",
     "tenday_delta": null,
     "reservable_sites": 1,
     "campgrounds": 15
   },
   "series": {
     "dates": [
-      "2026-11-06",
       "2026-11-07",
       "2026-11-08",
       "2026-11-09",
@@ -59,7 +58,8 @@
       "2026-12-17",
       "2026-12-18",
       "2026-12-19",
-      "2026-12-20"
+      "2026-12-20",
+      "2026-12-21"
     ],
     "aggregate": [
       null,
@@ -971,11 +971,6 @@
   ],
   "weekends": [
     {
-      "label": "Fri Nov 20\u2013Sun Nov 22",
-      "occupancy_pct": null,
-      "sites_remaining": null
-    },
-    {
       "label": "Fri Nov 27\u2013Sun Nov 29",
       "occupancy_pct": null,
       "sites_remaining": null
@@ -997,6 +992,11 @@
     },
     {
       "label": "Fri Dec 25\u2013Sun Dec 27",
+      "occupancy_pct": null,
+      "sites_remaining": null
+    },
+    {
+      "label": "Fri Jan 1\u2013Sun Jan 3",
       "occupancy_pct": null,
       "sites_remaining": null
     }
