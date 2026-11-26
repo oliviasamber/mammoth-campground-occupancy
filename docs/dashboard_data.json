@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T23:28:40Z",
-  "snapshot_count": 94,
-  "latest_snapshot": "2026-11-25",
+  "generated_at": "2026-11-26T23:29:20Z",
+  "snapshot_count": 95,
+  "latest_snapshot": "2026-11-26",
   "summary": {
     "tonight_pct": null,
     "frisun_pct": null,
@@ -15,7 +15,6 @@
   },
   "series": {
     "dates": [
-      "2026-11-11",
       "2026-11-12",
       "2026-11-13",
       "2026-11-14",
@@ -59,7 +58,8 @@
       "2026-12-22",
       "2026-12-23",
       "2026-12-24",
-      "2026-12-25"
+      "2026-12-25",
+      "2026-12-26"
     ],
     "aggregate": [
       null,
